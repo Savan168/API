@@ -2298,7 +2298,7 @@
     {"StudentID": "S090", "Class": "B", "Grade": 1, "Session": "Evening", "MajorName": "Mathematics", "MajorID": "MATH", "DepartmentName": "Mathematics"}
    
   ],
-  "attendace":[
+  "attendaces":[
   {
     "AttendanceID": 1,
     "StudentID": "S001",
@@ -3469,6 +3469,2301 @@
     "CreatedAt": "2024-04-11 08:15:00",
     "UpdatedAt": "2024-04-11 08:15:00"
   }
-]
-  
+  ],
+  "subjects": [
+    {
+      "subjectID": "CS101",
+      "departmentID": "D001",
+      "departmentName": "Computer Science",
+      "subjectName": "Introduction to Programming",
+      "description": "Fundamentals of programming logic and syntax using a high-level language like Python or Java.",
+      "teacherID": "T001",
+      "classID": "CS01",
+      "createdAt": "2024-01-10T09:00:00Z",
+      "updatedAt": "2024-01-10T09:00:00Z"
+    },
+    {
+      "subjectID": "CS201",
+      "departmentID": "D001",
+      "departmentName": "Computer Science",
+      "subjectName": "Data Structures and Algorithms",
+      "description": "Study of fundamental data structures (arrays, linked lists, trees, graphs) and algorithm analysis.",
+      "teacherID": "T002",
+      "classID": "CS02",
+      "createdAt": "2024-01-10T09:00:00Z",
+      "updatedAt": "2024-01-10T09:00:00Z"
+    },
+    {
+      "subjectID": "CS301",
+      "departmentID": "D001",
+      "departmentName": "Computer Science",
+      "subjectName": "Database Management Systems",
+      "description": "Principles of database design, SQL, normalization, and transaction management.",
+      "teacherID": "T003",
+      "classID": "CS03",
+      "createdAt": "2024-01-10T09:00:00Z",
+      "updatedAt": "2024-01-10T09:00:00Z"
+    },
+    {
+      "subjectID": "CS401",
+      "departmentID": "D001",
+      "departmentName": "Computer Science",
+      "subjectName": "Computer Networks",
+      "description": "Overview of network architectures, protocols, IP addressing, and network security fundamentals.",
+      "teacherID": "T004",
+      "classID": "CS04",
+      "createdAt": "2024-01-10T09:00:00Z",
+      "updatedAt": "2024-01-10T09:00:00Z"
+    },
+    {
+      "subjectID": "CS501",
+      "departmentID": "D001",
+      "departmentName": "Computer Science",
+      "subjectName": "Software Engineering",
+      "description": "Software development life cycle, Agile methodologies, requirements analysis, and project management.",
+      "teacherID": "T005",
+      "classID": "CS05",
+      "createdAt": "2024-01-10T09:00:00Z",
+      "updatedAt": "2024-01-10T09:00:00Z"
+    },
+    {
+      "subjectID": "IT101",
+      "departmentID": "D002",
+      "departmentName": "Information Technology",
+      "subjectName": "IT Infrastructure and Networking",
+      "description": "Design, implementation, and management of computer networks and IT systems.",
+      "teacherID": "T006",
+      "classID": "IT01",
+      "createdAt": "2024-01-10T09:00:00Z",
+      "updatedAt": "2024-01-10T09:00:00Z"
+    },
+    {
+      "subjectID": "IT201",
+      "departmentID": "D002",
+      "departmentName": "Information Technology",
+      "subjectName": "Web Development Technologies",
+      "description": "Front-end and back-end development using HTML, CSS, JavaScript, and server-side languages.",
+      "teacherID": "T007",
+      "classID": "IT02",
+      "createdAt": "2024-01-10T09:00:00Z",
+      "updatedAt": "2024-01-10T09:00:00Z"
+    },
+    {
+      "subjectID": "IT301",
+      "departmentID": "D002",
+      "departmentName": "Information Technology",
+      "subjectName": "Cybersecurity Fundamentals",
+      "description": "Principles of securing information systems, ethical hacking, and risk management.",
+      "teacherID": "T008",
+      "classID": "IT03",
+      "createdAt": "2024-01-10T09:00:00Z",
+      "updatedAt": "2024-01-10T09:00:00Z"
+    },
+    {
+      "subjectID": "IT401",
+      "departmentID": "D002",
+      "departmentName": "Information Technology",
+      "subjectName": "Cloud Computing",
+      "description": "Concepts and deployment models of cloud services (IaaS, PaaS, SaaS) using platforms like AWS or Azure.",
+      "teacherID": "T009",
+      "classID": "IT04",
+      "createdAt": "2024-01-10T09:00:00Z",
+      "updatedAt": "2024-01-10T09:00:00Z"
+    },
+    {
+      "subjectID": "IT501",
+      "departmentID": "D002",
+      "departmentName": "Information Technology",
+      "subjectName": "IT Project Management",
+      "description": "Managing technology projects using frameworks like Agile, Scrum, and ITIL.",
+      "teacherID": "T010",
+      "classID": "IT05",
+      "createdAt": "2024-01-10T09:00:00Z",
+      "updatedAt": "2024-01-10T09:00:00Z"
+    },
+    {
+      "subjectID": "CE101",
+      "departmentID": "D003",
+      "departmentName": "Civil Engineering",
+      "subjectName": "Structural Analysis",
+      "description": "Analysis of forces and stresses in buildings, bridges, and other structures.",
+      "teacherID": "T011",
+      "classID": "CE01",
+      "createdAt": "2024-01-10T09:00:00Z",
+      "updatedAt": "2024-01-10T09:00:00Z"
+    },
+    {
+      "subjectID": "CE201",
+      "departmentID": "D003",
+      "departmentName": "Civil Engineering",
+      "subjectName": "Geotechnical Engineering",
+      "description": "Study of soil behavior, foundation design, and slope stability.",
+      "teacherID": "T012",
+      "classID": "CE02",
+      "createdAt": "2024-01-10T09:00:00Z",
+      "updatedAt": "2024-01-10T09:00:00Z"
+    },
+    {
+      "subjectID": "CE301",
+      "departmentID": "D003",
+      "departmentName": "Civil Engineering",
+      "subjectName": "Transportation Engineering",
+      "description": "Design and planning of highways, railways, airports, and traffic systems.",
+      "teacherID": "T013",
+      "classID": "CE03",
+      "createdAt": "2024-01-10T09:00:00Z",
+      "updatedAt": "2024-01-10T09:00:00Z"
+    },
+    {
+      "subjectID": "CE401",
+      "departmentID": "D003",
+      "departmentName": "Civil Engineering",
+      "subjectName": "Hydraulics and Water Resources",
+      "description": "Flow of water, design of hydraulic systems, and water resource management.",
+      "teacherID": "T014",
+      "classID": "CE04",
+      "createdAt": "2024-01-10T09:00:00Z",
+      "updatedAt": "2024-01-10T09:00:00Z"
+    },
+    {
+      "subjectID": "CE501",
+      "departmentID": "D003",
+      "departmentName": "Civil Engineering",
+      "subjectName": "Construction Management",
+      "description": "Planning, coordination, and control of construction projects from start to finish.",
+      "teacherID": "T015",
+      "classID": "CE05",
+      "createdAt": "2024-01-10T09:00:00Z",
+      "updatedAt": "2024-01-10T09:00:00Z"
+    },
+    {
+      "subjectID": "MT101",
+      "departmentID": "D004",
+      "departmentName": "Mechatronics",
+      "subjectName": "Introduction to Robotics",
+      "description": "Fundamentals of robot mechanics, sensors, actuators, and basic control systems.",
+      "teacherID": "T016",
+      "classID": "MT01",
+      "createdAt": "2024-01-10T09:00:00Z",
+      "updatedAt": "2024-01-10T09:00:00Z"
+    },
+    {
+      "subjectID": "MT201",
+      "departmentID": "D004",
+      "departmentName": "Mechatronics",
+      "subjectName": "Control Systems Engineering",
+      "description": "Modeling and design of feedback control systems for mechanical and electrical systems.",
+      "teacherID": "T017",
+      "classID": "MT02",
+      "createdAt": "2024-01-10T09:00:00Z",
+      "updatedAt": "2024-01-10T09:00:00Z"
+    },
+    {
+      "subjectID": "MT301",
+      "departmentID": "D004",
+      "departmentName": "Mechatronics",
+      "subjectName": "Digital Electronics and Microcontrollers",
+      "description": "Design of digital circuits and programming of microcontrollers for embedded systems.",
+      "teacherID": "T018",
+      "classID": "MT03",
+      "createdAt": "2024-01-10T09:00:00Z",
+      "updatedAt": "2024-01-10T09:00:00Z"
+    },
+    {
+      "subjectID": "MT401",
+      "departmentID": "D004",
+      "departmentName": "Mechatronics",
+      "subjectName": "Mechatronic System Design",
+      "description": "Integrated design of mechanical, electronic, and software components for automated systems.",
+      "teacherID": "T019",
+      "classID": "MT04",
+      "createdAt": "2024-01-10T09:00:00Z",
+      "updatedAt": "2024-01-10T09:00:00Z"
+    },
+    {
+      "subjectID": "MT501",
+      "departmentID": "D004",
+      "departmentName": "Mechatronics",
+      "subjectName": "Industrial Automation",
+      "description": "Application of PLCs, SCADA systems, and robotics in manufacturing and process control.",
+      "teacherID": "T020",
+      "classID": "MT05",
+      "createdAt": "2024-01-10T09:00:00Z",
+      "updatedAt": "2024-01-10T09:00:00Z"
+    },
+    {
+      "subjectID": "MATH101",
+      "departmentID": "D005",
+      "departmentName": "Mathematics",
+      "subjectName": "Calculus I",
+      "description": "Differential and integral calculus of single variable functions, limits, and continuity.",
+      "teacherID": "T021",
+      "classID": "MATH01",
+      "createdAt": "2024-01-10T09:00:00Z",
+      "updatedAt": "2024-01-10T09:00:00Z"
+    },
+    {
+      "subjectID": "MATH201",
+      "departmentID": "D005",
+      "departmentName": "Mathematics",
+      "subjectName": "Linear Algebra",
+      "description": "Vector spaces, matrices, determinants, eigenvalues, and linear transformations.",
+      "teacherID": "T022",
+      "classID": "MATH02",
+      "createdAt": "2024-01-10T09:00:00Z",
+      "updatedAt": "2024-01-10T09:00:00Z"
+    },
+    {
+      "subjectID": "MATH301",
+      "departmentID": "D005",
+      "departmentName": "Mathematics",
+      "subjectName": "Probability and Statistics",
+      "description": "Theory of probability, statistical inference, regression analysis, and hypothesis testing.",
+      "teacherID": "T023",
+      "classID": "MATH03",
+      "createdAt": "2024-01-10T09:00:00Z",
+      "updatedAt": "2024-01-10T09:00:00Z"
+    },
+    {
+      "subjectID": "MATH401",
+      "departmentID": "D005",
+      "departmentName": "Mathematics",
+      "subjectName": "Differential Equations",
+      "description": "Ordinary and partial differential equations and their applications in engineering and science.",
+      "teacherID": "T024",
+      "classID": "MATH04",
+      "createdAt": "2024-01-10T09:00:00Z",
+      "updatedAt": "2024-01-10T09:00:00Z"
+    },
+    {
+      "subjectID": "MATH501",
+      "departmentID": "D005",
+      "departmentName": "Mathematics",
+      "subjectName": "Discrete Mathematics",
+      "description": "Logic, set theory, graph theory, combinatorics, and their applications in computer science.",
+      "teacherID": "T025",
+      "classID": "MATH05",
+      "createdAt": "2024-01-10T09:00:00Z",
+      "updatedAt": "2024-01-10T09:00:00Z"
+    }
+  ],
+  "exam":[
+     
+    {
+      "StudentID": "S001",
+      "SubjectID": "CS429",
+      "Exam": "Midterm",
+      "Date": "2023-09-25",
+      "Score": null,
+      "ScoreStatus": "Absent",
+      "Grade": "F"
+    },
+    {
+      "StudentID": "S002",
+      "SubjectID": "MATH415",
+      "Exam": "Midterm",
+      "Date": "2024-05-10",
+      "Score": 38,
+      "ScoreStatus": "Graded",
+      "Grade": "F"
+    },
+    {
+      "StudentID": "S002",
+      "SubjectID": "CE226",
+      "Exam": "Project",
+      "Date": "2023-12-17",
+      "Score": 43,
+      "ScoreStatus": "Graded",
+      "Grade": "F"
+    },
+    {
+      "StudentID": "S002",
+      "SubjectID": "IT325",
+      "Exam": "Midterm",
+      "Date": "2023-10-01",
+      "Score": 79,
+      "ScoreStatus": "Graded",
+      "Grade": "B"
+    },
+    {
+      "StudentID": "S003",
+      "SubjectID": "IT204",
+      "Exam": "Project",
+      "Date": "2023-11-05",
+      "Score": 19,
+      "ScoreStatus": "Graded",
+      "Grade": "F"
+    },
+    {
+      "StudentID": "S003",
+      "SubjectID": "MATH323",
+      "Exam": "Midterm",
+      "Date": "2024-02-25",
+      "Score": 80,
+      "ScoreStatus": "Graded",
+      "Grade": "A"
+    },
+    {
+      "StudentID": "S004",
+      "SubjectID": "MT131",
+      "Exam": "Final",
+      "Date": "2023-10-05",
+      "Score": 1,
+      "ScoreStatus": "Graded",
+      "Grade": "F"
+    },
+    {
+      "StudentID": "S004",
+      "SubjectID": "MATH233",
+      "Exam": "Midterm",
+      "Date": "2024-04-29",
+      "Score": 8,
+      "ScoreStatus": "Graded",
+      "Grade": "F"
+    },
+    {
+      "StudentID": "S005",
+      "SubjectID": "CS331",
+      "Exam": "Midterm",
+      "Date": "2024-04-24",
+      "Score": 65,
+      "ScoreStatus": "Graded",
+      "Grade": "C"
+    },
+    {
+      "StudentID": "S005",
+      "SubjectID": "IT491",
+      "Exam": "Final",
+      "Date": "2024-04-17",
+      "Score": 96,
+      "ScoreStatus": "Graded",
+      "Grade": "A"
+    },
+    {
+      "StudentID": "S005",
+      "SubjectID": "IT333",
+      "Exam": "Final",
+      "Date": "2024-04-29",
+      "Score": 63,
+      "ScoreStatus": "Graded",
+      "Grade": "C"
+    },
+    {
+      "StudentID": "S006",
+      "SubjectID": "IT203",
+      "Exam": "Project",
+      "Date": "2024-02-05",
+      "Score": 41,
+      "ScoreStatus": "Graded",
+      "Grade": "F"
+    },
+    {
+      "StudentID": "S007",
+      "SubjectID": "MT245",
+      "Exam": "Project",
+      "Date": "2024-01-04",
+      "Score": 54,
+      "ScoreStatus": "Graded",
+      "Grade": "D"
+    },
+    {
+      "StudentID": "S008",
+      "SubjectID": "IT278",
+      "Exam": "Midterm",
+      "Date": "2024-03-25",
+      "Score": 87,
+      "ScoreStatus": "Graded",
+      "Grade": "A"
+    },
+    {
+      "StudentID": "S009",
+      "SubjectID": "IT164",
+      "Exam": "Final",
+      "Date": "2024-02-28",
+      "Score": 37,
+      "ScoreStatus": "Graded",
+      "Grade": "F"
+    },
+    {
+      "StudentID": "S009",
+      "SubjectID": "IT389",
+      "Exam": "Midterm",
+      "Date": "2024-03-25",
+      "Score": 5,
+      "ScoreStatus": "Graded",
+      "Grade": "F"
+    },
+    {
+      "StudentID": "S009",
+      "SubjectID": "MT496",
+      "Exam": "Project",
+      "Date": "2023-10-13",
+      "Score": 61,
+      "ScoreStatus": "Graded",
+      "Grade": "C"
+    },
+    {
+      "StudentID": "S009",
+      "SubjectID": "IT319",
+      "Exam": "Project",
+      "Date": "2024-04-04",
+      "Score": null,
+      "ScoreStatus": "Absent",
+      "Grade": "F"
+    },
+    {
+      "StudentID": "S010",
+      "SubjectID": "CS108",
+      "Exam": "Final",
+      "Date": "2024-03-23",
+      "Score": 38,
+      "ScoreStatus": "Graded",
+      "Grade": "F"
+    },
+    {
+      "StudentID": "S010",
+      "SubjectID": "CE215",
+      "Exam": "Final",
+      "Date": "2024-04-05",
+      "Score": 79,
+      "ScoreStatus": "Graded",
+      "Grade": "B"
+    },
+    {
+      "StudentID": "S011",
+      "SubjectID": "MATH400",
+      "Exam": "Final",
+      "Date": "2023-09-24",
+      "Score": 25,
+      "ScoreStatus": "Graded",
+      "Grade": "F"
+    },
+    {
+      "StudentID": "S011",
+      "SubjectID": "MT244",
+      "Exam": "Midterm",
+      "Date": "2023-11-16",
+      "Score": 52,
+      "ScoreStatus": "Graded",
+      "Grade": "D"
+    },
+    {
+      "StudentID": "S011",
+      "SubjectID": "CE445",
+      "Exam": "Midterm",
+      "Date": "2023-09-13",
+      "Score": null,
+      "ScoreStatus": "Absent",
+      "Grade": "F"
+    },
+    {
+      "StudentID": "S012",
+      "SubjectID": "MATH259",
+      "Exam": "Project",
+      "Date": "2024-01-20",
+      "Score": 36,
+      "ScoreStatus": "Graded",
+      "Grade": "F"
+    },
+    {
+      "StudentID": "S013",
+      "SubjectID": "MATH444",
+      "Exam": "Project",
+      "Date": "2023-10-15",
+      "Score": 94,
+      "ScoreStatus": "Graded",
+      "Grade": "A"
+    },
+    {
+      "StudentID": "S014",
+      "SubjectID": "MT334",
+      "Exam": "Midterm",
+      "Date": "2024-05-16",
+      "Score": null,
+      "ScoreStatus": "Absent",
+      "Grade": "F"
+    },
+    {
+      "StudentID": "S014",
+      "SubjectID": "MT476",
+      "Exam": "Midterm",
+      "Date": "2024-05-01",
+      "Score": 92,
+      "ScoreStatus": "Graded",
+      "Grade": "A"
+    },
+    {
+      "StudentID": "S014",
+      "SubjectID": "MT387",
+      "Exam": "Project",
+      "Date": "2024-01-14",
+      "Score": 51,
+      "ScoreStatus": "Graded",
+      "Grade": "D"
+    },
+    {
+      "StudentID": "S015",
+      "SubjectID": "IT310",
+      "Exam": "Midterm",
+      "Date": "2024-02-19",
+      "Score": 46,
+      "ScoreStatus": "Graded",
+      "Grade": "F"
+    },
+    {
+      "StudentID": "S015",
+      "SubjectID": "CE112",
+      "Exam": "Final",
+      "Date": "2024-04-30",
+      "Score": 46,
+      "ScoreStatus": "Graded",
+      "Grade": "F"
+    },
+    {
+      "StudentID": "S015",
+      "SubjectID": "CE448",
+      "Exam": "Final",
+      "Date": "2023-10-23",
+      "Score": 45,
+      "ScoreStatus": "Graded",
+      "Grade": "F"
+    },
+    {
+      "StudentID": "S015",
+      "SubjectID": "CS339",
+      "Exam": "Project",
+      "Date": "2023-10-06",
+      "Score": 86,
+      "ScoreStatus": "Graded",
+      "Grade": "A"
+    },
+    {
+      "StudentID": "S016",
+      "SubjectID": "MT276",
+      "Exam": "Project",
+      "Date": "2023-10-22",
+      "Score": 96,
+      "ScoreStatus": "Graded",
+      "Grade": "A"
+    },
+    {
+      "StudentID": "S017",
+      "SubjectID": "CE480",
+      "Exam": "Midterm",
+      "Date": "2024-03-09",
+      "Score": 80,
+      "ScoreStatus": "Graded",
+      "Grade": "A"
+    },
+    {
+      "StudentID": "S017",
+      "SubjectID": "MATH101",
+      "Exam": "Final",
+      "Date": "2024-02-06",
+      "Score": 79,
+      "ScoreStatus": "Graded",
+      "Grade": "B"
+    },
+    {
+      "StudentID": "S017",
+      "SubjectID": "MT277",
+      "Exam": "Project",
+      "Date": "2023-10-04",
+      "Score": null,
+      "ScoreStatus": "Absent",
+      "Grade": "F"
+    },
+    {
+      "StudentID": "S017",
+      "SubjectID": "MT434",
+      "Exam": "Project",
+      "Date": "2023-09-10",
+      "Score": 4,
+      "ScoreStatus": "Graded",
+      "Grade": "F"
+    },
+    {
+      "StudentID": "S018",
+      "SubjectID": "CE374",
+      "Exam": "Final",
+      "Date": "2024-02-18",
+      "Score": 99,
+      "ScoreStatus": "Graded",
+      "Grade": "A"
+    },
+    {
+      "StudentID": "S018",
+      "SubjectID": "MATH428",
+      "Exam": "Project",
+      "Date": "2023-11-13",
+      "Score": 54,
+      "ScoreStatus": "Graded",
+      "Grade": "D"
+    },
+    {
+      "StudentID": "S018",
+      "SubjectID": "MATH501",
+      "Exam": "Final",
+      "Date": "2023-11-23",
+      "Score": null,
+      "ScoreStatus": "Absent",
+      "Grade": "F"
+    },
+    {
+      "StudentID": "S019",
+      "SubjectID": "IT463",
+      "Exam": "Midterm",
+      "Date": "2023-09-25",
+      "Score": 4,
+      "ScoreStatus": "Graded",
+      "Grade": "F"
+    },
+    {
+      "StudentID": "S019",
+      "SubjectID": "MT102",
+      "Exam": "Project",
+      "Date": "2024-01-03",
+      "Score": 13,
+      "ScoreStatus": "Graded",
+      "Grade": "F"
+    },
+    {
+      "StudentID": "S019",
+      "SubjectID": "MT175",
+      "Exam": "Midterm",
+      "Date": "2024-04-30",
+      "Score": 75,
+      "ScoreStatus": "Graded",
+      "Grade": "B"
+    },
+    {
+      "StudentID": "S020",
+      "SubjectID": "MT460",
+      "Exam": "Midterm",
+      "Date": "2023-11-09",
+      "Score": 96,
+      "ScoreStatus": "Graded",
+      "Grade": "A"
+    },
+    {
+      "StudentID": "S020",
+      "SubjectID": "MT446",
+      "Exam": "Final",
+      "Date": "2023-10-24",
+      "Score": 91,
+      "ScoreStatus": "Graded",
+      "Grade": "A"
+    },
+    {
+      "StudentID": "S020",
+      "SubjectID": "CE487",
+      "Exam": "Final",
+      "Date": "2023-09-26",
+      "Score": 75,
+      "ScoreStatus": "Graded",
+      "Grade": "B"
+    },
+    {
+      "StudentID": "S020",
+      "SubjectID": "CS175",
+      "Exam": "Midterm",
+      "Date": "2023-12-19",
+      "Score": null,
+      "ScoreStatus": "Absent",
+      "Grade": "F"
+    },
+    {
+      "StudentID": "S021",
+      "SubjectID": "IT194",
+      "Exam": "Project",
+      "Date": "2024-04-11",
+      "Score": 32,
+      "ScoreStatus": "Graded",
+      "Grade": "F"
+    },
+    {
+      "StudentID": "S021",
+      "SubjectID": "IT449",
+      "Exam": "Midterm",
+      "Date": "2024-05-24",
+      "Score": null,
+      "ScoreStatus": "Absent",
+      "Grade": "F"
+    },
+    {
+      "StudentID": "S021",
+      "SubjectID": "MATH296",
+      "Exam": "Midterm",
+      "Date": "2024-05-18",
+      "Score": 14,
+      "ScoreStatus": "Graded",
+      "Grade": "F"
+    },
+    {
+      "StudentID": "S021",
+      "SubjectID": "IT482",
+      "Exam": "Final",
+      "Date": "2023-11-14",
+      "Score": null,
+      "ScoreStatus": "Absent",
+      "Grade": "F"
+    },
+    {
+      "StudentID": "S022",
+      "SubjectID": "CE317",
+      "Exam": "Midterm",
+      "Date": "2024-02-12",
+      "Score": 8,
+      "ScoreStatus": "Graded",
+      "Grade": "F"
+    },
+    {
+      "StudentID": "S022",
+      "SubjectID": "MATH255",
+      "Exam": "Project",
+      "Date": "2024-05-08",
+      "Score": 32,
+      "ScoreStatus": "Graded",
+      "Grade": "F"
+    },
+    {
+      "StudentID": "S023",
+      "SubjectID": "MT383",
+      "Exam": "Midterm",
+      "Date": "2023-10-14",
+      "Score": 95,
+      "ScoreStatus": "Graded",
+      "Grade": "A"
+    },
+    {
+      "StudentID": "S024",
+      "SubjectID": "MT357",
+      "Exam": "Midterm",
+      "Date": "2024-01-30",
+      "Score": null,
+      "ScoreStatus": "Absent",
+      "Grade": "F"
+    },
+    {
+      "StudentID": "S025",
+      "SubjectID": "IT355",
+      "Exam": "Final",
+      "Date": "2023-11-12",
+      "Score": 36,
+      "ScoreStatus": "Graded",
+      "Grade": "F"
+    },
+    {
+      "StudentID": "S025",
+      "SubjectID": "CE207",
+      "Exam": "Final",
+      "Date": "2023-10-27",
+      "Score": 53,
+      "ScoreStatus": "Graded",
+      "Grade": "D"
+    },
+    {
+      "StudentID": "S025",
+      "SubjectID": "IT359",
+      "Exam": "Project",
+      "Date": "2023-09-27",
+      "Score": 55,
+      "ScoreStatus": "Graded",
+      "Grade": "D"
+    },
+    {
+      "StudentID": "S025",
+      "SubjectID": "IT441",
+      "Exam": "Project",
+      "Date": "2023-12-24",
+      "Score": null,
+      "ScoreStatus": "Absent",
+      "Grade": "F"
+    },
+    {
+      "StudentID": "S026",
+      "SubjectID": "MATH433",
+      "Exam": "Final",
+      "Date": "2023-12-19",
+      "Score": 54,
+      "ScoreStatus": "Graded",
+      "Grade": "D"
+    },
+    {
+      "StudentID": "S026",
+      "SubjectID": "IT312",
+      "Exam": "Final",
+      "Date": "2024-05-24",
+      "Score": 42,
+      "ScoreStatus": "Graded",
+      "Grade": "F"
+    },
+    {
+      "StudentID": "S026",
+      "SubjectID": "MT317",
+      "Exam": "Midterm",
+      "Date": "2024-03-07",
+      "Score": 10,
+      "ScoreStatus": "Graded",
+      "Grade": "F"
+    },
+    {
+      "StudentID": "S026",
+      "SubjectID": "MATH411",
+      "Exam": "Final",
+      "Date": "2024-03-02",
+      "Score": null,
+      "ScoreStatus": "Absent",
+      "Grade": "F"
+    },
+    {
+      "StudentID": "S027",
+      "SubjectID": "MATH489",
+      "Exam": "Project",
+      "Date": "2024-05-25",
+      "Score": 17,
+      "ScoreStatus": "Graded",
+      "Grade": "F"
+    },
+    {
+      "StudentID": "S027",
+      "SubjectID": "CS416",
+      "Exam": "Final",
+      "Date": "2024-05-11",
+      "Score": 3,
+      "ScoreStatus": "Graded",
+      "Grade": "F"
+    },
+    {
+      "StudentID": "S027",
+      "SubjectID": "MATH105",
+      "Exam": "Midterm",
+      "Date": "2023-12-15",
+      "Score": 28,
+      "ScoreStatus": "Graded",
+      "Grade": "F"
+    },
+    {
+      "StudentID": "S028",
+      "SubjectID": "IT185",
+      "Exam": "Final",
+      "Date": "2024-01-19",
+      "Score": 14,
+      "ScoreStatus": "Graded",
+      "Grade": "F"
+    },
+    {
+      "StudentID": "S029",
+      "SubjectID": "MATH494",
+      "Exam": "Project",
+      "Date": "2024-05-12",
+      "Score": 25,
+      "ScoreStatus": "Graded",
+      "Grade": "F"
+    },
+    {
+      "StudentID": "S030",
+      "SubjectID": "MT295",
+      "Exam": "Project",
+      "Date": "2023-10-18",
+      "Score": null,
+      "ScoreStatus": "Absent",
+      "Grade": "F"
+    },
+    {
+      "StudentID": "S030",
+      "SubjectID": "MT213",
+      "Exam": "Midterm",
+      "Date": "2024-05-27",
+      "Score": 40,
+      "ScoreStatus": "Graded",
+      "Grade": "F"
+    },
+    {
+      "StudentID": "S030",
+      "SubjectID": "CE283",
+      "Exam": "Final",
+      "Date": "2024-03-25",
+      "Score": 13,
+      "ScoreStatus": "Graded",
+      "Grade": "F"
+    },
+    {
+      "StudentID": "S030",
+      "SubjectID": "CS402",
+      "Exam": "Midterm",
+      "Date": "2024-01-12",
+      "Score": 14,
+      "ScoreStatus": "Graded",
+      "Grade": "F"
+    },
+    {
+      "StudentID": "S031",
+      "SubjectID": "CS161",
+      "Exam": "Midterm",
+      "Date": "2023-10-23",
+      "Score": 96,
+      "ScoreStatus": "Graded",
+      "Grade": "A"
+    },
+    {
+      "StudentID": "S031",
+      "SubjectID": "MATH130",
+      "Exam": "Midterm",
+      "Date": "2023-12-31",
+      "Score": 87,
+      "ScoreStatus": "Graded",
+      "Grade": "A"
+    },
+    {
+      "StudentID": "S031",
+      "SubjectID": "IT480",
+      "Exam": "Final",
+      "Date": "2023-09-19",
+      "Score": 77,
+      "ScoreStatus": "Graded",
+      "Grade": "B"
+    },
+    {
+      "StudentID": "S032",
+      "SubjectID": "MATH366",
+      "Exam": "Final",
+      "Date": "2024-02-13",
+      "Score": 69,
+      "ScoreStatus": "Graded",
+      "Grade": "C"
+    },
+    {
+      "StudentID": "S032",
+      "SubjectID": "CE139",
+      "Exam": "Midterm",
+      "Date": "2023-12-26",
+      "Score": 3,
+      "ScoreStatus": "Graded",
+      "Grade": "F"
+    },
+    {
+      "StudentID": "S032",
+      "SubjectID": "MT230",
+      "Exam": "Final",
+      "Date": "2024-04-19",
+      "Score": 19,
+      "ScoreStatus": "Graded",
+      "Grade": "F"
+    },
+    {
+      "StudentID": "S033",
+      "SubjectID": "CE376",
+      "Exam": "Project",
+      "Date": "2024-03-30",
+      "Score": 29,
+      "ScoreStatus": "Graded",
+      "Grade": "F"
+    },
+    {
+      "StudentID": "S034",
+      "SubjectID": "IT171",
+      "Exam": "Final",
+      "Date": "2024-01-27",
+      "Score": 72,
+      "ScoreStatus": "Graded",
+      "Grade": "B"
+    },
+    {
+      "StudentID": "S034",
+      "SubjectID": "IT253",
+      "Exam": "Midterm",
+      "Date": "2024-02-20",
+      "Score": 74,
+      "ScoreStatus": "Graded",
+      "Grade": "B"
+    },
+    {
+      "StudentID": "S035",
+      "SubjectID": "CE375",
+      "Exam": "Final",
+      "Date": "2024-05-12",
+      "Score": 54,
+      "ScoreStatus": "Graded",
+      "Grade": "D"
+    },
+    {
+      "StudentID": "S035",
+      "SubjectID": "IT123",
+      "Exam": "Midterm",
+      "Date": "2024-01-11",
+      "Score": 12,
+      "ScoreStatus": "Graded",
+      "Grade": "F"
+    },
+    {
+      "StudentID": "S035",
+      "SubjectID": "CE304",
+      "Exam": "Midterm",
+      "Date": "2024-03-26",
+      "Score": 78,
+      "ScoreStatus": "Graded",
+      "Grade": "B"
+    },
+    {
+      "StudentID": "S036",
+      "SubjectID": "MT163",
+      "Exam": "Midterm",
+      "Date": "2023-11-10",
+      "Score": 21,
+      "ScoreStatus": "Graded",
+      "Grade": "F"
+    },
+    {
+      "StudentID": "S036",
+      "SubjectID": "IT380",
+      "Exam": "Project",
+      "Date": "2024-03-15",
+      "Score": 39,
+      "ScoreStatus": "Graded",
+      "Grade": "F"
+    },
+    {
+      "StudentID": "S037",
+      "SubjectID": "MATH101",
+      "Exam": "Midterm",
+      "Date": "2024-05-24",
+      "Score": 42,
+      "ScoreStatus": "Graded",
+      "Grade": "F"
+    },
+    {
+      "StudentID": "S037",
+      "SubjectID": "MT403",
+      "Exam": "Midterm",
+      "Date": "2024-02-28",
+      "Score": 54,
+      "ScoreStatus": "Graded",
+      "Grade": "D"
+    },
+    {
+      "StudentID": "S037",
+      "SubjectID": "MATH205",
+      "Exam": "Project",
+      "Date": "2024-02-23",
+      "Score": 68,
+      "ScoreStatus": "Graded",
+      "Grade": "C"
+    },
+    {
+      "StudentID": "S037",
+      "SubjectID": "MT106",
+      "Exam": "Midterm",
+      "Date": "2023-11-30",
+      "Score": 80,
+      "ScoreStatus": "Graded",
+      "Grade": "A"
+    },
+    {
+      "StudentID": "S038",
+      "SubjectID": "CS151",
+      "Exam": "Project",
+      "Date": "2023-11-11",
+      "Score": null,
+      "ScoreStatus": "Absent",
+      "Grade": "F"
+    },
+    {
+      "StudentID": "S038",
+      "SubjectID": "CS381",
+      "Exam": "Midterm",
+      "Date": "2024-04-20",
+      "Score": 99,
+      "ScoreStatus": "Graded",
+      "Grade": "A"
+    },
+    {
+      "StudentID": "S038",
+      "SubjectID": "IT470",
+      "Exam": "Midterm",
+      "Date": "2023-11-07",
+      "Score": 53,
+      "ScoreStatus": "Graded",
+      "Grade": "D"
+    },
+    {
+      "StudentID": "S038",
+      "SubjectID": "CS425",
+      "Exam": "Project",
+      "Date": "2024-04-14",
+      "Score": 50,
+      "ScoreStatus": "Graded",
+      "Grade": "D"
+    },
+    {
+      "StudentID": "S039",
+      "SubjectID": "MT222",
+      "Exam": "Midterm",
+      "Date": "2023-10-02",
+      "Score": 44,
+      "ScoreStatus": "Graded",
+      "Grade": "F"
+    },
+    {
+      "StudentID": "S039",
+      "SubjectID": "IT223",
+      "Exam": "Midterm",
+      "Date": "2023-11-01",
+      "Score": 71,
+      "ScoreStatus": "Graded",
+      "Grade": "B"
+    },
+    {
+      "StudentID": "S040",
+      "SubjectID": "MATH347",
+      "Exam": "Project",
+      "Date": "2024-01-16",
+      "Score": 8,
+      "ScoreStatus": "Graded",
+      "Grade": "F"
+    },
+    {
+      "StudentID": "S040",
+      "SubjectID": "CS447",
+      "Exam": "Project",
+      "Date": "2023-10-02",
+      "Score": 84,
+      "ScoreStatus": "Graded",
+      "Grade": "A"
+    },
+    {
+      "StudentID": "S040",
+      "SubjectID": "MT282",
+      "Exam": "Midterm",
+      "Date": "2023-11-05",
+      "Score": 61,
+      "ScoreStatus": "Graded",
+      "Grade": "C"
+    },
+    {
+      "StudentID": "S040",
+      "SubjectID": "CS442",
+      "Exam": "Final",
+      "Date": "2023-10-12",
+      "Score": 97,
+      "ScoreStatus": "Graded",
+      "Grade": "A"
+    },
+    {
+      "StudentID": "S041",
+      "SubjectID": "CE155",
+      "Exam": "Final",
+      "Date": "2024-03-20",
+      "Score": 33,
+      "ScoreStatus": "Graded",
+      "Grade": "F"
+    },
+    {
+      "StudentID": "S041",
+      "SubjectID": "MATH435",
+      "Exam": "Midterm",
+      "Date": "2023-11-28",
+      "Score": 63,
+      "ScoreStatus": "Graded",
+      "Grade": "C"
+    },
+    {
+      "StudentID": "S042",
+      "SubjectID": "CS363",
+      "Exam": "Midterm",
+      "Date": "2024-04-20",
+      "Score": 52,
+      "ScoreStatus": "Graded",
+      "Grade": "D"
+    },
+    {
+      "StudentID": "S042",
+      "SubjectID": "IT187",
+      "Exam": "Midterm",
+      "Date": "2023-12-16",
+      "Score": 69,
+      "ScoreStatus": "Graded",
+      "Grade": "C"
+    },
+    {
+      "StudentID": "S042",
+      "SubjectID": "CS422",
+      "Exam": "Midterm",
+      "Date": "2024-03-14",
+      "Score": 43,
+      "ScoreStatus": "Graded",
+      "Grade": "F"
+    },
+    {
+      "StudentID": "S043",
+      "SubjectID": "MATH290",
+      "Exam": "Final",
+      "Date": "2023-12-30",
+      "Score": 64,
+      "ScoreStatus": "Graded",
+      "Grade": "C"
+    },
+    {
+      "StudentID": "S043",
+      "SubjectID": "MATH246",
+      "Exam": "Midterm",
+      "Date": "2024-03-05",
+      "Score": 8,
+      "ScoreStatus": "Graded",
+      "Grade": "F"
+    },
+    {
+      "StudentID": "S043",
+      "SubjectID": "MT366",
+      "Exam": "Midterm",
+      "Date": "2024-02-10",
+      "Score": 61,
+      "ScoreStatus": "Graded",
+      "Grade": "C"
+    },
+    {
+      "StudentID": "S044",
+      "SubjectID": "CE277",
+      "Exam": "Final",
+      "Date": "2024-03-28",
+      "Score": 66,
+      "ScoreStatus": "Graded",
+      "Grade": "C"
+    },
+    {
+      "StudentID": "S045",
+      "SubjectID": "MATH388",
+      "Exam": "Project",
+      "Date": "2024-03-29",
+      "Score": 6,
+      "ScoreStatus": "Graded",
+      "Grade": "F"
+    },
+    {
+      "StudentID": "S045",
+      "SubjectID": "CE333",
+      "Exam": "Project",
+      "Date": "2024-03-10",
+      "Score": 97,
+      "ScoreStatus": "Graded",
+      "Grade": "A"
+    },
+    {
+      "StudentID": "S045",
+      "SubjectID": "MT335",
+      "Exam": "Project",
+      "Date": "2024-01-01",
+      "Score": 3,
+      "ScoreStatus": "Graded",
+      "Grade": "F"
+    },
+    {
+      "StudentID": "S045",
+      "SubjectID": "IT315",
+      "Exam": "Midterm",
+      "Date": "2024-05-23",
+      "Score": 4,
+      "ScoreStatus": "Graded",
+      "Grade": "F"
+    },
+    {
+      "StudentID": "S046",
+      "SubjectID": "MT500",
+      "Exam": "Project",
+      "Date": "2024-04-08",
+      "Score": 78,
+      "ScoreStatus": "Graded",
+      "Grade": "B"
+    },
+    {
+      "StudentID": "S046",
+      "SubjectID": "CS198",
+      "Exam": "Final",
+      "Date": "2024-02-15",
+      "Score": 35,
+      "ScoreStatus": "Graded",
+      "Grade": "F"
+    },
+    {
+      "StudentID": "S046",
+      "SubjectID": "MATH415",
+      "Exam": "Project",
+      "Date": "2023-11-08",
+      "Score": 95,
+      "ScoreStatus": "Graded",
+      "Grade": "A"
+    },
+    {
+      "StudentID": "S047",
+      "SubjectID": "MT360",
+      "Exam": "Final",
+      "Date": "2023-12-07",
+      "Score": 99,
+      "ScoreStatus": "Graded",
+      "Grade": "A"
+    },
+    {
+      "StudentID": "S047",
+      "SubjectID": "CS338",
+      "Exam": "Midterm",
+      "Date": "2023-10-27",
+      "Score": null,
+      "ScoreStatus": "Absent",
+      "Grade": "F"
+    },
+    {
+      "StudentID": "S047",
+      "SubjectID": "CE243",
+      "Exam": "Midterm",
+      "Date": "2024-03-24",
+      "Score": 76,
+      "ScoreStatus": "Graded",
+      "Grade": "B"
+    },
+    {
+      "StudentID": "S048",
+      "SubjectID": "IT336",
+      "Exam": "Project",
+      "Date": "2024-01-08",
+      "Score": 23,
+      "ScoreStatus": "Graded",
+      "Grade": "F"
+    },
+    {
+      "StudentID": "S048",
+      "SubjectID": "MT426",
+      "Exam": "Project",
+      "Date": "2024-03-28",
+      "Score": 53,
+      "ScoreStatus": "Graded",
+      "Grade": "D"
+    },
+    {
+      "StudentID": "S048",
+      "SubjectID": "CS187",
+      "Exam": "Project",
+      "Date": "2023-10-10",
+      "Score": 25,
+      "ScoreStatus": "Graded",
+      "Grade": "F"
+    },
+    {
+      "StudentID": "S048",
+      "SubjectID": "MATH418",
+      "Exam": "Final",
+      "Date": "2024-03-15",
+      "Score": 27,
+      "ScoreStatus": "Graded",
+      "Grade": "F"
+    },
+    {
+      "StudentID": "S049",
+      "SubjectID": "MT204",
+      "Exam": "Midterm",
+      "Date": "2023-11-08",
+      "Score": 45,
+      "ScoreStatus": "Graded",
+      "Grade": "F"
+    },
+    {
+      "StudentID": "S049",
+      "SubjectID": "CS314",
+      "Exam": "Project",
+      "Date": "2024-03-26",
+      "Score": 29,
+      "ScoreStatus": "Graded",
+      "Grade": "F"
+    },
+    {
+      "StudentID": "S050",
+      "SubjectID": "CE331",
+      "Exam": "Project",
+      "Date": "2024-02-29",
+      "Score": 73,
+      "ScoreStatus": "Graded",
+      "Grade": "B"
+    },
+    {
+      "StudentID": "S050",
+      "SubjectID": "CE188",
+      "Exam": "Project",
+      "Date": "2023-10-06",
+      "Score": null,
+      "ScoreStatus": "Absent",
+      "Grade": "F"
+    },
+    {
+      "StudentID": "S050",
+      "SubjectID": "MT307",
+      "Exam": "Project",
+      "Date": "2024-04-30",
+      "Score": 49,
+      "ScoreStatus": "Graded",
+      "Grade": "F"
+    },
+    {
+      "StudentID": "S050",
+      "SubjectID": "CS383",
+      "Exam": "Midterm",
+      "Date": "2024-04-15",
+      "Score": 11,
+      "ScoreStatus": "Graded",
+      "Grade": "F"
+    },
+    {
+      "StudentID": "S051",
+      "SubjectID": "MATH453",
+      "Exam": "Midterm",
+      "Date": "2023-12-26",
+      "Score": 4,
+      "ScoreStatus": "Graded",
+      "Grade": "F"
+    },
+    {
+      "StudentID": "S051",
+      "SubjectID": "IT477",
+      "Exam": "Midterm",
+      "Date": "2023-12-11",
+      "Score": 75,
+      "ScoreStatus": "Graded",
+      "Grade": "B"
+    },
+    {
+      "StudentID": "S051",
+      "SubjectID": "MT161",
+      "Exam": "Midterm",
+      "Date": "2023-12-15",
+      "Score": 23,
+      "ScoreStatus": "Graded",
+      "Grade": "F"
+    },
+    {
+      "StudentID": "S051",
+      "SubjectID": "CS498",
+      "Exam": "Project",
+      "Date": "2023-09-20",
+      "Score": 25,
+      "ScoreStatus": "Graded",
+      "Grade": "F"
+    },
+    {
+      "StudentID": "S052",
+      "SubjectID": "MATH319",
+      "Exam": "Final",
+      "Date": "2023-12-18",
+      "Score": null,
+      "ScoreStatus": "Absent",
+      "Grade": "F"
+    },
+    {
+      "StudentID": "S053",
+      "SubjectID": "MATH359",
+      "Exam": "Project",
+      "Date": "2024-04-01",
+      "Score": 49,
+      "ScoreStatus": "Graded",
+      "Grade": "F"
+    },
+    {
+      "StudentID": "S053",
+      "SubjectID": "CE486",
+      "Exam": "Project",
+      "Date": "2023-12-26",
+      "Score": 42,
+      "ScoreStatus": "Graded",
+      "Grade": "F"
+    },
+    {
+      "StudentID": "S054",
+      "SubjectID": "CS149",
+      "Exam": "Final",
+      "Date": "2023-09-09",
+      "Score": 88,
+      "ScoreStatus": "Graded",
+      "Grade": "A"
+    },
+    {
+      "StudentID": "S054",
+      "SubjectID": "MATH452",
+      "Exam": "Midterm",
+      "Date": "2023-09-27",
+      "Score": 98,
+      "ScoreStatus": "Graded",
+      "Grade": "A"
+    },
+    {
+      "StudentID": "S054",
+      "SubjectID": "CE212",
+      "Exam": "Project",
+      "Date": "2024-01-04",
+      "Score": 41,
+      "ScoreStatus": "Graded",
+      "Grade": "F"
+    },
+    {
+      "StudentID": "S054",
+      "SubjectID": "IT384",
+      "Exam": "Project",
+      "Date": "2024-03-05",
+      "Score": 59,
+      "ScoreStatus": "Graded",
+      "Grade": "D"
+    },
+    {
+      "StudentID": "S055",
+      "SubjectID": "CE470",
+      "Exam": "Project",
+      "Date": "2023-12-06",
+      "Score": 10,
+      "ScoreStatus": "Graded",
+      "Grade": "F"
+    },
+    {
+      "StudentID": "S056",
+      "SubjectID": "IT304",
+      "Exam": "Final",
+      "Date": "2023-10-05",
+      "Score": 53,
+      "ScoreStatus": "Graded",
+      "Grade": "D"
+    },
+    {
+      "StudentID": "S056",
+      "SubjectID": "IT132",
+      "Exam": "Midterm",
+      "Date": "2023-10-16",
+      "Score": null,
+      "ScoreStatus": "Absent",
+      "Grade": "F"
+    },
+    {
+      "StudentID": "S056",
+      "SubjectID": "MATH415",
+      "Exam": "Final",
+      "Date": "2024-02-20",
+      "Score": 12,
+      "ScoreStatus": "Graded",
+      "Grade": "F"
+    },
+    {
+      "StudentID": "S057",
+      "SubjectID": "MT116",
+      "Exam": "Midterm",
+      "Date": "2023-12-15",
+      "Score": 41,
+      "ScoreStatus": "Graded",
+      "Grade": "F"
+    },
+    {
+      "StudentID": "S058",
+      "SubjectID": "MATH185",
+      "Exam": "Midterm",
+      "Date": "2024-02-04",
+      "Score": 3,
+      "ScoreStatus": "Graded",
+      "Grade": "F"
+    },
+    {
+      "StudentID": "S058",
+      "SubjectID": "MT173",
+      "Exam": "Midterm",
+      "Date": "2023-12-11",
+      "Score": 50,
+      "ScoreStatus": "Graded",
+      "Grade": "D"
+    },
+    {
+      "StudentID": "S059",
+      "SubjectID": "CE432",
+      "Exam": "Project",
+      "Date": "2023-12-22",
+      "Score": 4,
+      "ScoreStatus": "Graded",
+      "Grade": "F"
+    },
+    {
+      "StudentID": "S059",
+      "SubjectID": "CS184",
+      "Exam": "Final",
+      "Date": "2024-03-06",
+      "Score": 6,
+      "ScoreStatus": "Graded",
+      "Grade": "F"
+    },
+    {
+      "StudentID": "S059",
+      "SubjectID": "CE199",
+      "Exam": "Final",
+      "Date": "2024-05-29",
+      "Score": 23,
+      "ScoreStatus": "Graded",
+      "Grade": "F"
+    },
+    {
+      "StudentID": "S059",
+      "SubjectID": "IT194",
+      "Exam": "Midterm",
+      "Date": "2023-09-20",
+      "Score": 12,
+      "ScoreStatus": "Graded",
+      "Grade": "F"
+    },
+    {
+      "StudentID": "S060",
+      "SubjectID": "MT106",
+      "Exam": "Final",
+      "Date": "2023-10-16",
+      "Score": 24,
+      "ScoreStatus": "Graded",
+      "Grade": "F"
+    },
+    {
+      "StudentID": "S061",
+      "SubjectID": "IT220",
+      "Exam": "Project",
+      "Date": "2023-12-13",
+      "Score": 8,
+      "ScoreStatus": "Graded",
+      "Grade": "F"
+    },
+    {
+      "StudentID": "S061",
+      "SubjectID": "CS205",
+      "Exam": "Midterm",
+      "Date": "2024-02-27",
+      "Score": 93,
+      "ScoreStatus": "Graded",
+      "Grade": "A"
+    },
+    {
+      "StudentID": "S062",
+      "SubjectID": "CE158",
+      "Exam": "Midterm",
+      "Date": "2024-04-01",
+      "Score": 38,
+      "ScoreStatus": "Graded",
+      "Grade": "F"
+    },
+    {
+      "StudentID": "S063",
+      "SubjectID": "IT381",
+      "Exam": "Project",
+      "Date": "2024-01-03",
+      "Score": 9,
+      "ScoreStatus": "Graded",
+      "Grade": "F"
+    },
+    {
+      "StudentID": "S063",
+      "SubjectID": "CE122",
+      "Exam": "Midterm",
+      "Date": "2024-05-18",
+      "Score": null,
+      "ScoreStatus": "Absent",
+      "Grade": "F"
+    },
+    {
+      "StudentID": "S063",
+      "SubjectID": "MATH236",
+      "Exam": "Project",
+      "Date": "2023-11-04",
+      "Score": 1,
+      "ScoreStatus": "Graded",
+      "Grade": "F"
+    },
+    {
+      "StudentID": "S063",
+      "SubjectID": "MT478",
+      "Exam": "Project",
+      "Date": "2023-11-01",
+      "Score": null,
+      "ScoreStatus": "Absent",
+      "Grade": "F"
+    },
+    {
+      "StudentID": "S064",
+      "SubjectID": "IT166",
+      "Exam": "Midterm",
+      "Date": "2024-05-08",
+      "Score": 16,
+      "ScoreStatus": "Graded",
+      "Grade": "F"
+    },
+    {
+      "StudentID": "S065",
+      "SubjectID": "MT304",
+      "Exam": "Project",
+      "Date": "2024-01-24",
+      "Score": 10,
+      "ScoreStatus": "Graded",
+      "Grade": "F"
+    },
+    {
+      "StudentID": "S066",
+      "SubjectID": "CE459",
+      "Exam": "Project",
+      "Date": "2024-05-19",
+      "Score": 47,
+      "ScoreStatus": "Graded",
+      "Grade": "F"
+    },
+    {
+      "StudentID": "S067",
+      "SubjectID": "MT351",
+      "Exam": "Midterm",
+      "Date": "2023-10-27",
+      "Score": 2,
+      "ScoreStatus": "Graded",
+      "Grade": "F"
+    },
+    {
+      "StudentID": "S067",
+      "SubjectID": "IT379",
+      "Exam": "Final",
+      "Date": "2023-11-23",
+      "Score": 52,
+      "ScoreStatus": "Graded",
+      "Grade": "D"
+    },
+    {
+      "StudentID": "S068",
+      "SubjectID": "MATH260",
+      "Exam": "Midterm",
+      "Date": "2024-01-10",
+      "Score": 75,
+      "ScoreStatus": "Graded",
+      "Grade": "B"
+    },
+    {
+      "StudentID": "S068",
+      "SubjectID": "IT487",
+      "Exam": "Project",
+      "Date": "2024-02-26",
+      "Score": 23,
+      "ScoreStatus": "Graded",
+      "Grade": "F"
+    },
+    {
+      "StudentID": "S068",
+      "SubjectID": "MATH164",
+      "Exam": "Final",
+      "Date": "2024-05-02",
+      "Score": 69,
+      "ScoreStatus": "Graded",
+      "Grade": "C"
+    },
+    {
+      "StudentID": "S069",
+      "SubjectID": "MATH366",
+      "Exam": "Midterm",
+      "Date": "2024-04-10",
+      "Score": 36,
+      "ScoreStatus": "Graded",
+      "Grade": "F"
+    },
+    {
+      "StudentID": "S070",
+      "SubjectID": "CS337",
+      "Exam": "Midterm",
+      "Date": "2024-03-24",
+      "Score": 9,
+      "ScoreStatus": "Graded",
+      "Grade": "F"
+    },
+    {
+      "StudentID": "S071",
+      "SubjectID": "IT352",
+      "Exam": "Final",
+      "Date": "2023-09-10",
+      "Score": 78,
+      "ScoreStatus": "Graded",
+      "Grade": "B"
+    },
+    {
+      "StudentID": "S072",
+      "SubjectID": "IT315",
+      "Exam": "Final",
+      "Date": "2024-01-10",
+      "Score": 17,
+      "ScoreStatus": "Graded",
+      "Grade": "F"
+    },
+    {
+      "StudentID": "S072",
+      "SubjectID": "MATH167",
+      "Exam": "Project",
+      "Date": "2023-12-22",
+      "Score": 76,
+      "ScoreStatus": "Graded",
+      "Grade": "B"
+    },
+    {
+      "StudentID": "S072",
+      "SubjectID": "CE172",
+      "Exam": "Final",
+      "Date": "2024-02-12",
+      "Score": 48,
+      "ScoreStatus": "Graded",
+      "Grade": "F"
+    },
+    {
+      "StudentID": "S072",
+      "SubjectID": "IT378",
+      "Exam": "Final",
+      "Date": "2024-01-04",
+      "Score": 25,
+      "ScoreStatus": "Graded",
+      "Grade": "F"
+    },
+    {
+      "StudentID": "S073",
+      "SubjectID": "CE299",
+      "Exam": "Final",
+      "Date": "2024-03-12",
+      "Score": 26,
+      "ScoreStatus": "Graded",
+      "Grade": "F"
+    },
+    {
+      "StudentID": "S073",
+      "SubjectID": "CS500",
+      "Exam": "Project",
+      "Date": "2023-12-13",
+      "Score": 2,
+      "ScoreStatus": "Graded",
+      "Grade": "F"
+    },
+    {
+      "StudentID": "S073",
+      "SubjectID": "IT370",
+      "Exam": "Final",
+      "Date": "2024-02-10",
+      "Score": 98,
+      "ScoreStatus": "Graded",
+      "Grade": "A"
+    },
+    {
+      "StudentID": "S073",
+      "SubjectID": "IT410",
+      "Exam": "Midterm",
+      "Date": "2024-04-02",
+      "Score": 10,
+      "ScoreStatus": "Graded",
+      "Grade": "F"
+    },
+    {
+      "StudentID": "S074",
+      "SubjectID": "MT332",
+      "Exam": "Final",
+      "Date": "2023-11-19",
+      "Score": 98,
+      "ScoreStatus": "Graded",
+      "Grade": "A"
+    },
+    {
+      "StudentID": "S075",
+      "SubjectID": "MT122",
+      "Exam": "Midterm",
+      "Date": "2024-05-30",
+      "Score": 52,
+      "ScoreStatus": "Graded",
+      "Grade": "D"
+    },
+    {
+      "StudentID": "S075",
+      "SubjectID": "MT438",
+      "Exam": "Midterm",
+      "Date": "2023-12-20",
+      "Score": 21,
+      "ScoreStatus": "Graded",
+      "Grade": "F"
+    },
+    {
+      "StudentID": "S076",
+      "SubjectID": "CE142",
+      "Exam": "Project",
+      "Date": "2024-01-28",
+      "Score": 94,
+      "ScoreStatus": "Graded",
+      "Grade": "A"
+    },
+    {
+      "StudentID": "S077",
+      "SubjectID": "CS200",
+      "Exam": "Midterm",
+      "Date": "2023-12-07",
+      "Score": 32,
+      "ScoreStatus": "Graded",
+      "Grade": "F"
+    },
+    {
+      "StudentID": "S077",
+      "SubjectID": "IT213",
+      "Exam": "Project",
+      "Date": "2024-01-23",
+      "Score": 90,
+      "ScoreStatus": "Graded",
+      "Grade": "A"
+    },
+    {
+      "StudentID": "S077",
+      "SubjectID": "IT229",
+      "Exam": "Final",
+      "Date": "2023-11-20",
+      "Score": 33,
+      "ScoreStatus": "Graded",
+      "Grade": "F"
+    },
+    {
+      "StudentID": "S077",
+      "SubjectID": "IT102",
+      "Exam": "Midterm",
+      "Date": "2024-03-30",
+      "Score": 13,
+      "ScoreStatus": "Graded",
+      "Grade": "F"
+    },
+    {
+      "StudentID": "S078",
+      "SubjectID": "CE385",
+      "Exam": "Final",
+      "Date": "2024-03-13",
+      "Score": 74,
+      "ScoreStatus": "Graded",
+      "Grade": "B"
+    },
+    {
+      "StudentID": "S078",
+      "SubjectID": "IT175",
+      "Exam": "Midterm",
+      "Date": "2024-03-17",
+      "Score": 49,
+      "ScoreStatus": "Graded",
+      "Grade": "F"
+    },
+    {
+      "StudentID": "S078",
+      "SubjectID": "MATH376",
+      "Exam": "Midterm",
+      "Date": "2024-01-14",
+      "Score": 57,
+      "ScoreStatus": "Graded",
+      "Grade": "D"
+    },
+    {
+      "StudentID": "S078",
+      "SubjectID": "IT473",
+      "Exam": "Project",
+      "Date": "2024-01-30",
+      "Score": 70,
+      "ScoreStatus": "Graded",
+      "Grade": "B"
+    },
+    {
+      "StudentID": "S079",
+      "SubjectID": "MT124",
+      "Exam": "Midterm",
+      "Date": "2024-03-16",
+      "Score": 49,
+      "ScoreStatus": "Graded",
+      "Grade": "F"
+    },
+    {
+      "StudentID": "S079",
+      "SubjectID": "CS318",
+      "Exam": "Final",
+      "Date": "2023-10-03",
+      "Score": 12,
+      "ScoreStatus": "Graded",
+      "Grade": "F"
+    },
+    {
+      "StudentID": "S079",
+      "SubjectID": "CS436",
+      "Exam": "Midterm",
+      "Date": "2024-04-12",
+      "Score": 88,
+      "ScoreStatus": "Graded",
+      "Grade": "A"
+    },
+    {
+      "StudentID": "S080",
+      "SubjectID": "IT178",
+      "Exam": "Project",
+      "Date": "2023-09-24",
+      "Score": 27,
+      "ScoreStatus": "Graded",
+      "Grade": "F"
+    },
+    {
+      "StudentID": "S080",
+      "SubjectID": "MATH152",
+      "Exam": "Final",
+      "Date": "2024-04-26",
+      "Score": 43,
+      "ScoreStatus": "Graded",
+      "Grade": "F"
+    },
+    {
+      "StudentID": "S081",
+      "SubjectID": "CS377",
+      "Exam": "Project",
+      "Date": "2024-05-03",
+      "Score": 57,
+      "ScoreStatus": "Graded",
+      "Grade": "D"
+    },
+    {
+      "StudentID": "S081",
+      "SubjectID": "CS207",
+      "Exam": "Project",
+      "Date": "2024-02-10",
+      "Score": 86,
+      "ScoreStatus": "Graded",
+      "Grade": "A"
+    },
+    {
+      "StudentID": "S081",
+      "SubjectID": "CE373",
+      "Exam": "Final",
+      "Date": "2024-05-27",
+      "Score": 96,
+      "ScoreStatus": "Graded",
+      "Grade": "A"
+    },
+    {
+      "StudentID": "S082",
+      "SubjectID": "MATH143",
+      "Exam": "Midterm",
+      "Date": "2024-02-22",
+      "Score": null,
+      "ScoreStatus": "Absent",
+      "Grade": "F"
+    },
+    {
+      "StudentID": "S082",
+      "SubjectID": "MT421",
+      "Exam": "Midterm",
+      "Date": "2023-12-09",
+      "Score": 91,
+      "ScoreStatus": "Graded",
+      "Grade": "A"
+    },
+    {
+      "StudentID": "S083",
+      "SubjectID": "MT184",
+      "Exam": "Final",
+      "Date": "2023-12-31",
+      "Score": 41,
+      "ScoreStatus": "Graded",
+      "Grade": "F"
+    },
+    {
+      "StudentID": "S083",
+      "SubjectID": "CE348",
+      "Exam": "Final",
+      "Date": "2024-04-01",
+      "Score": 83,
+      "ScoreStatus": "Graded",
+      "Grade": "A"
+    },
+    {
+      "StudentID": "S083",
+      "SubjectID": "CE273",
+      "Exam": "Final",
+      "Date": "2023-12-21",
+      "Score": 0,
+      "ScoreStatus": "Graded",
+      "Grade": "F"
+    },
+    {
+      "StudentID": "S084",
+      "SubjectID": "IT425",
+      "Exam": "Midterm",
+      "Date": "2024-03-05",
+      "Score": 20,
+      "ScoreStatus": "Graded",
+      "Grade": "F"
+    },
+    {
+      "StudentID": "S085",
+      "SubjectID": "MT123",
+      "Exam": "Midterm",
+      "Date": "2023-09-17",
+      "Score": 91,
+      "ScoreStatus": "Graded",
+      "Grade": "A"
+    },
+    {
+      "StudentID": "S085",
+      "SubjectID": "MT327",
+      "Exam": "Project",
+      "Date": "2023-09-14",
+      "Score": 44,
+      "ScoreStatus": "Graded",
+      "Grade": "F"
+    },
+    {
+      "StudentID": "S085",
+      "SubjectID": "MATH322",
+      "Exam": "Final",
+      "Date": "2024-04-11",
+      "Score": 52,
+      "ScoreStatus": "Graded",
+      "Grade": "D"
+    },
+    {
+      "StudentID": "S085",
+      "SubjectID": "CS428",
+      "Exam": "Midterm",
+      "Date": "2023-12-29",
+      "Score": 84,
+      "ScoreStatus": "Graded",
+      "Grade": "A"
+    },
+    {
+      "StudentID": "S086",
+      "SubjectID": "MATH477",
+      "Exam": "Project",
+      "Date": "2023-11-20",
+      "Score": null,
+      "ScoreStatus": "Absent",
+      "Grade": "F"
+    },
+    {
+      "StudentID": "S086",
+      "SubjectID": "CS103",
+      "Exam": "Final",
+      "Date": "2023-11-21",
+      "Score": 77,
+      "ScoreStatus": "Graded",
+      "Grade": "B"
+    },
+    {
+      "StudentID": "S086",
+      "SubjectID": "IT471",
+      "Exam": "Project",
+      "Date": "2023-09-19",
+      "Score": 21,
+      "ScoreStatus": "Graded",
+      "Grade": "F"
+    },
+    {
+      "StudentID": "S086",
+      "SubjectID": "CE292",
+      "Exam": "Project",
+      "Date": "2023-09-29",
+      "Score": 78,
+      "ScoreStatus": "Graded",
+      "Grade": "B"
+    },
+    {
+      "StudentID": "S087",
+      "SubjectID": "MATH232",
+      "Exam": "Project",
+      "Date": "2023-09-30",
+      "Score": 6,
+      "ScoreStatus": "Graded",
+      "Grade": "F"
+    },
+    {
+      "StudentID": "S087",
+      "SubjectID": "CS411",
+      "Exam": "Final",
+      "Date": "2024-01-29",
+      "Score": 51,
+      "ScoreStatus": "Graded",
+      "Grade": "D"
+    },
+    {
+      "StudentID": "S087",
+      "SubjectID": "CS371",
+      "Exam": "Project",
+      "Date": "2024-02-02",
+      "Score": 73,
+      "ScoreStatus": "Graded",
+      "Grade": "B"
+    },
+    {
+      "StudentID": "S088",
+      "SubjectID": "CS268",
+      "Exam": "Midterm",
+      "Date": "2024-05-04",
+      "Score": 48,
+      "ScoreStatus": "Graded",
+      "Grade": "F"
+    },
+    {
+      "StudentID": "S088",
+      "SubjectID": "IT324",
+      "Exam": "Project",
+      "Date": "2023-10-20",
+      "Score": 38,
+      "ScoreStatus": "Graded",
+      "Grade": "F"
+    },
+    {
+      "StudentID": "S088",
+      "SubjectID": "CS154",
+      "Exam": "Midterm",
+      "Date": "2024-03-15",
+      "Score": 1,
+      "ScoreStatus": "Graded",
+      "Grade": "F"
+    },
+    {
+      "StudentID": "S089",
+      "SubjectID": "CS460",
+      "Exam": "Project",
+      "Date": "2024-05-09",
+      "Score": 36,
+      "ScoreStatus": "Graded",
+      "Grade": "F"
+    },
+    {
+      "StudentID": "S089",
+      "SubjectID": "MT153",
+      "Exam": "Midterm",
+      "Date": "2023-09-01",
+      "Score": 16,
+      "ScoreStatus": "Graded",
+      "Grade": "F"
+    },
+    {
+      "StudentID": "S089",
+      "SubjectID": "CE116",
+      "Exam": "Final",
+      "Date": "2023-11-23",
+      "Score": null,
+      "ScoreStatus": "Absent",
+      "Grade": "F"
+    },
+    {
+      "StudentID": "S090",
+      "SubjectID": "MATH210",
+      "Exam": "Midterm",
+      "Date": "2023-11-23",
+      "Score": 86,
+      "ScoreStatus": "Graded",
+      "Grade": "A"
+    },
+    {
+      "StudentID": "S090",
+      "SubjectID": "CS126",
+      "Exam": "Final",
+      "Date": "2024-05-09",
+      "Score": null,
+      "ScoreStatus": "Absent",
+      "Grade": "F"
+    },
+    {
+      "StudentID": "S090",
+      "SubjectID": "MATH369",
+      "Exam": "Midterm",
+      "Date": "2023-10-26",
+      "Score": 65,
+      "ScoreStatus": "Graded",
+      "Grade": "C"
+    } 
+  ]
 }
