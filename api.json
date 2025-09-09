@@ -5765,5 +5765,602 @@
       "ScoreStatus": "Graded",
       "Grade": "C"
     } 
-  ]
+  ],
+  "courses": [
+  {
+    "id": "CS101", "code": "CS101", "title": "Introduction to Computer Science", 
+    "location": "CS Building 101", "department": "Computer Science", "credits": 3, 
+    "description": "Fundamental concepts of computer science and programming",
+    "instructor": {
+      "id": "T001",
+      "name": "Dr. Robert Wilson"
+      },
+    "schedule": [
+      {
+      "days": ["M", "W", "F"],
+      "time": "10:00-11:00 AM"
+      }
+    ],
+    "enrollment": {
+      "current": 45,
+      "capacity": 50
+      }
+  },
+
+  {
+  "id": "CS102",
+  "code": "CS102",
+  "title": "Introduction to Programming",
+  "department": "Computer Science",
+  "credits": 3,
+  "description": "Fundamentals of programming concepts and techniques",
+  "instructor": {
+  "id": "T002",
+  "name": "Prof. Johnson"
+  },
+  "schedule": [
+  {
+  "days": ["T", "Th"],
+  "time": "9:00-10:30 AM"
+  }
+  ],
+  "location": "CS Building 102",
+  "enrollment": {
+  "current": 40,
+  "capacity": 45
+  }
+  },
+  {
+  "id": "CS201",
+  "code": "CS201",
+  "title": "Data Structures and Algorithms",
+  "department": "Computer Science",
+  "credits": 4,
+  "description": "Study of data structures and algorithm analysis",
+  "instructor": {
+  "id": "T003",
+  "name": "Dr. Chen"
+  },
+  "schedule": [
+  {
+  "days": ["M", "W", "F"],
+  "time": "1:00-2:30 PM"
+  }
+  ],
+  "location": "CS Building 201",
+  "enrollment": {
+  "current": 35,
+  "capacity": 40
+  }
+  },
+  {
+  "id": "CS301",
+  "code": "CS301",
+  "title": "Database Management Systems",
+  "department": "Computer Science",
+  "credits": 4,
+  "description": "Design and implementation of database systems",
+  "instructor": {
+  "id": "T004",
+  "name": "Prof. Davis"
+  },
+  "schedule": [
+  {
+  "days": ["T", "Th"],
+  "time": "11:00 AM-12:30 PM"
+  }
+  ],
+  "location": "CS Building 301",
+  "enrollment": {
+  "current": 38,
+  "capacity": 40
+  }
+  },
+  {
+  "id": "CS401",
+  "code": "CS401",
+  "title": "Computer Networks",
+  "department": "Computer Science",
+  "credits": 3,
+  "description": "Principles of computer networking and communication",
+  "instructor": {
+  "id": "T005",
+  "name": "Dr. Martinez"
+  },
+  "schedule": [
+  {
+  "days": ["M", "W"],
+  "time": "2:00-3:30 PM"
+  }
+  ],
+  "location": "CS Building 401",
+  "enrollment": {
+  "current": 32,
+  "capacity": 35
+  }
+  },
+  {
+  "id": "CS501",
+  "code": "CS501",
+  "title": "Software Engineering",
+  "department": "Computer Science",
+  "credits": 4,
+  "description": "Software development methodologies and practices",
+  "instructor": {
+  "id": "T006",
+  "name": "Prof. Wilson"
+  },
+  "schedule": [
+  {
+  "days": ["T", "Th"],
+  "time": "2:00-3:30 PM"
+  }
+  ],
+  "location": "CS Building 501",
+  "enrollment": {
+  "current": 28,
+  "capacity": 30
+  }
+  },
+  {
+  "id": "IT101",
+  "code": "IT101",
+  "title": "IT Infrastructure and Networking",
+  "department": "Information Technology",
+  "credits": 3,
+  "description": "Fundamentals of IT infrastructure and network systems",
+  "instructor": {
+  "id": "T007",
+  "name": "Dr. Anderson"
+  },
+  "schedule": [
+  {
+  "days": ["M", "W", "F"],
+  "time": "11:00 AM-12:00 PM"
+  }
+  ],
+  "location": "IT Building 101",
+  "enrollment": {
+  "current": 42,
+  "capacity": 45
+  }
+  },
+  {
+  "id": "IT201",
+  "code": "IT201",
+  "title": "Web Development Technologies",
+  "department": "Information Technology",
+  "credits": 4,
+  "description": "Modern web development technologies and frameworks",
+  "instructor": {
+  "id": "T008",
+  "name": "Prof. Brown"
+  },
+  "schedule": [
+  {
+  "days": ["T", "Th"],
+  "time": "1:00-2:30 PM"
+  }
+  ],
+  "location": "IT Building 201",
+  "enrollment": {
+  "current": 36,
+  "capacity": 40
+  }
+  },
+  {
+  "id": "IT301",
+  "code": "IT301",
+  "title": "Cybersecurity Fundamentals",
+  "department": "Information Technology",
+  "credits": 3,
+  "description": "Introduction to cybersecurity principles and practices",
+  "instructor": {
+  "id": "T009",
+  "name": "Dr. Taylor"
+  },
+  "schedule": [
+  {
+  "days": ["M", "W"],
+  "time": "3:30-5:00 PM"
+  }
+  ],
+  "location": "IT Building 301",
+  "enrollment": {
+  "current": 29,
+  "capacity": 30
+  }
+  },
+  {
+  "id": "IT401",
+  "code": "IT401",
+  "title": "Cloud Computing",
+  "department": "Information Technology",
+  "credits": 4,
+  "description": "Cloud computing architectures and services",
+  "instructor": {
+  "id": "T010",
+  "name": "Prof. Clark"
+  },
+  "schedule": [
+  {
+  "days": ["T", "Th"],
+  "time": "3:30-5:00 PM"
+  }
+  ],
+  "location": "IT Building 401",
+  "enrollment": {
+  "current": 25,
+  "capacity": 30
+  }
+  },
+  {
+  "id": "IT501",
+  "code": "IT501",
+  "title": "IT Project Management",
+  "department": "Information Technology",
+  "credits": 3,
+  "description": "Project management methodologies for IT projects",
+  "instructor": {
+  "id": "T011",
+  "name": "Dr. White"
+  },
+  "schedule": [
+  {
+  "days": ["F"],
+  "time": "1:00-4:00 PM"
+  }
+  ],
+  "location": "IT Building 501",
+  "enrollment": {
+  "current": 22,
+  "capacity": 25
+  }
+  },
+  {
+  "id": "CE201",
+  "code": "CE201",
+  "title": "Structural Analysis",
+  "department": "Civil Engineering",
+  "credits": 4,
+  "description": "Analysis of structural systems and components",
+  "instructor": {
+  "id": "T012",
+  "name": "Prof. Harris"
+  },
+  "schedule": [
+  {
+  "days": ["M", "W", "F"],
+  "time": "8:00-9:30 AM"
+  }
+  ],
+  "location": "Engineering Building 201",
+  "enrollment": {
+  "current": 30,
+  "capacity": 35
+  }
+  },
+  {
+  "id": "CE301",
+  "code": "CE301",
+  "title": "Geotechnical Engineering",
+  "department": "Civil Engineering",
+  "credits": 4,
+  "description": "Soil mechanics and foundation engineering",
+  "instructor": {
+  "id": "T013",
+  "name": "Dr. Martin"
+  },
+  "schedule": [
+  {
+  "days": ["T", "Th"],
+  "time": "8:00-9:30 AM"
+  }
+  ],
+  "location": "Engineering Building 301",
+  "enrollment": {
+  "current": 28,
+  "capacity": 30
+  }
+  },
+  {
+  "id": "CE401",
+  "code": "CE401",
+  "title": "Transportation Engineering",
+  "department": "Civil Engineering",
+  "credits": 3,
+  "description": "Planning and design of transportation systems",
+  "instructor": {
+  "id": "T014",
+  "name": "Prof. Thompson"
+  },
+  "schedule": [
+  {
+  "days": ["M", "W"],
+  "time": "10:00-11:30 AM"
+  }
+  ],
+  "location": "Engineering Building 401",
+  "enrollment": {
+  "current": 25,
+  "capacity": 30
+  }
+  },
+  {
+  "id": "CE501",
+  "code": "CE501",
+  "title": "Hydraulics and Water Resources",
+  "department": "Civil Engineering",
+  "credits": 4,
+  "description": "Fluid mechanics and water resources engineering",
+  "instructor": {
+  "id": "T015",
+  "name": "Dr. Garcia"
+  },
+  "schedule": [
+  {
+  "days": ["T", "Th"],
+  "time": "10:00-11:30 AM"
+  }
+  ],
+  "location": "Engineering Building 501",
+  "enrollment": {
+  "current": 26,
+  "capacity": 30
+  }
+  },
+  {
+  "id": "CE601",
+  "code": "CE601",
+  "title": "Construction Management",
+  "department": "Civil Engineering",
+  "credits": 3,
+  "description": "Management principles for construction projects",
+  "instructor": {
+  "id": "T016",
+  "name": "Prof. Lee"
+  },
+  "schedule": [
+  {
+  "days": ["F"],
+  "time": "9:00 AM-12:00 PM"
+  }
+  ],
+  "location": "Engineering Building 601",
+  "enrollment": {
+  "current": 20,
+  "capacity": 25
+  }
+  },
+  {
+  "id": "ME201",
+  "code": "ME201",
+  "title": "Introduction to Robotics",
+  "department": "Mechanical Engineering",
+  "credits": 4,
+  "description": "Fundamentals of robotics and automation",
+  "instructor": {
+  "id": "T017",
+  "name": "Dr. Walker"
+  },
+  "schedule": [
+  {
+  "days": ["M", "W", "F"],
+  "time": "2:00-3:30 PM"
+  }
+  ],
+  "location": "Engineering Building 202",
+  "enrollment": {
+  "current": 32,
+  "capacity": 35
+  }
+  },
+  {
+  "id": "ME301",
+  "code": "ME301",
+  "title": "Control Systems Engineering",
+  "department": "Mechanical Engineering",
+  "credits": 4,
+  "description": "Analysis and design of control systems",
+  "instructor": {
+  "id": "T018",
+  "name": "Prof. Hall"
+  },
+  "schedule": [
+  {
+  "days": ["T", "Th"],
+  "time": "2:00-3:30 PM"
+  }
+  ],
+  "location": "Engineering Building 302",
+  "enrollment": {
+  "current": 28,
+  "capacity": 30
+  }
+  },
+  {
+  "id": "ME401",
+  "code": "ME401",
+  "title": "Digital Electronics and Microcontrollers",
+  "department": "Mechanical Engineering",
+  "credits": 4,
+  "description": "Digital electronics and microcontroller programming",
+  "instructor": {
+  "id": "T019",
+  "name": "Dr. Young"
+  },
+  "schedule": [
+  {
+  "days": ["M", "W"],
+  "time": "4:00-5:30 PM"
+  }
+  ],
+  "location": "Engineering Building 402",
+  "enrollment": {
+  "current": 24,
+  "capacity": 30
+  }
+  },
+  {
+  "id": "ME501",
+  "code": "ME501",
+  "title": "Mechatronic System Design",
+  "department": "Mechanical Engineering",
+  "credits": 4,
+  "description": "Integration of mechanical, electrical and computer systems",
+  "instructor": {
+  "id": "T020",
+  "name": "Prof. Allen"
+  },
+  "schedule": [
+  {
+  "days": ["T", "Th"],
+  "time": "4:00-5:30 PM"
+  }
+  ],
+  "location": "Engineering Building 502",
+  "enrollment": {
+  "current": 22,
+  "capacity": 25
+  }
+  },
+  {
+  "id": "ME601",
+  "code": "ME601",
+  "title": "Industrial Automation",
+  "department": "Mechanical Engineering",
+  "credits": 3,
+  "description": "Automation systems in industrial applications",
+  "instructor": {
+  "id": "T001",
+  "name": "Dr. Robert Wilson"
+  },
+  "schedule": [
+  {
+  "days": ["F"],
+  "time": "1:00-4:00 PM"
+  }
+  ],
+  "location": "Engineering Building 602",
+  "enrollment": {
+  "current": 18,
+  "capacity": 20
+  }
+  },
+  {
+  "id": "MATH101",
+  "code": "MATH101",
+  "title": "Calculus I",
+  "department": "Mathematics",
+  "credits": 4,
+  "description": "Differential and integral calculus",
+  "instructor": {
+  "id": "T002",
+  "name": "Prof. Johnson"
+  },
+  "schedule": [
+  {
+  "days": ["M", "W", "F"],
+  "time": "9:00-10:30 AM"
+  }
+  ],
+  "location": "Math Building 101",
+  "enrollment": {
+  "current": 50,
+  "capacity": 55
+  }
+  },
+  {
+  "id": "MATH201",
+  "code": "MATH201",
+  "title": "Linear Algebra",
+  "department": "Mathematics",
+  "credits": 3,
+  "description": "Vector spaces and linear transformations",
+  "instructor": {
+  "id": "T003",
+  "name": "Dr. Chen"
+  },
+  "schedule": [
+  {
+  "days": ["T", "Th"],
+  "time": "11:00 AM-12:30 PM"
+  }
+  ],
+  "location": "Math Building 201",
+  "enrollment": {
+  "current": 45,
+  "capacity": 50
+  }
+  },
+  {
+  "id": "MATH301",
+  "code": "MATH301",
+  "title": "Probability and Statistics",
+  "department": "Mathematics",
+  "credits": 4,
+  "description": "Probability theory and statistical methods",
+  "instructor": {
+  "id": "T004",
+  "name": "Prof. Davis"
+  },
+  "schedule": [
+  {
+  "days": ["M", "W", "F"],
+  "time": "1:00-2:30 PM"
+  }
+  ],
+  "location": "Math Building 301",
+  "enrollment": {
+  "current": 40,
+  "capacity": 45
+  }
+  },
+  {
+  "id": "MATH401",
+  "code": "MATH401",
+  "title": "Differential Equations",
+  "department": "Mathematics",
+  "credits": 4,
+  "description": "Ordinary and partial differential equations",
+  "instructor": {
+  "id": "T005",
+  "name": "Dr. Martinez"
+  },
+  "schedule": [
+  {
+  "days": ["T", "Th"],
+  "time": "2:00-3:30 PM"
+  }
+  ],
+  "location": "Math Building 401",
+  "enrollment": {
+  "current": 35,
+  "capacity": 40
+  }
+  },
+  {
+  "id": "MATH501",
+  "code": "MATH501",
+  "title": "Discrete Mathematics",
+  "department": "Mathematics",
+  "credits": 3,
+  "description": "Discrete structures and mathematical reasoning",
+  "instructor": {
+  "id": "T006",
+  "name": "Prof. Wilson"
+  },
+  "schedule": [
+  {
+  "days": ["M", "W"],
+  "time": "3:30-5:00 PM"
+  }
+  ],
+  "location": "Math Building 501",
+  "enrollment": {
+  "current": 30,
+  "capacity": 35
+  }
+  }
+    ]
 }
