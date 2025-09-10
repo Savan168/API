@@ -1043,7 +1043,7 @@
   ],
   "majors": [
     {
-      "MajorID": "CS",
+      "MajorID": "CS", 
       "MajorName": "Computer Science",
       "DepartmentID": "D001",
       "DegreeType": "Bachelor",
@@ -3747,11 +3747,10 @@
       "updatedAt": "2024-01-10T09:00:00Z"
     }
   ],
-  "exam":[
-     
+  "exam": [
     {
       "StudentID": "S001",
-      "SubjectID": "CS429",
+      "SubjectID": "CS101",
       "Exam": "Midterm",
       "Date": "2023-09-25",
       "Score": null,
@@ -3760,7 +3759,7 @@
     },
     {
       "StudentID": "S002",
-      "SubjectID": "MATH415",
+      "SubjectID": "CS201",
       "Exam": "Midterm",
       "Date": "2024-05-10",
       "Score": 38,
@@ -3769,7 +3768,7 @@
     },
     {
       "StudentID": "S002",
-      "SubjectID": "CE226",
+      "SubjectID": "CS301",
       "Exam": "Project",
       "Date": "2023-12-17",
       "Score": 43,
@@ -3778,7 +3777,7 @@
     },
     {
       "StudentID": "S002",
-      "SubjectID": "IT325",
+      "SubjectID": "CS401",
       "Exam": "Midterm",
       "Date": "2023-10-01",
       "Score": 79,
@@ -3787,7 +3786,7 @@
     },
     {
       "StudentID": "S003",
-      "SubjectID": "IT204",
+      "SubjectID": "CS501",
       "Exam": "Project",
       "Date": "2023-11-05",
       "Score": 19,
@@ -3796,7 +3795,7 @@
     },
     {
       "StudentID": "S003",
-      "SubjectID": "MATH323",
+      "SubjectID": "IT101",
       "Exam": "Midterm",
       "Date": "2024-02-25",
       "Score": 80,
@@ -3805,7 +3804,7 @@
     },
     {
       "StudentID": "S004",
-      "SubjectID": "MT131",
+      "SubjectID": "IT201",
       "Exam": "Final",
       "Date": "2023-10-05",
       "Score": 1,
@@ -3814,7 +3813,7 @@
     },
     {
       "StudentID": "S004",
-      "SubjectID": "MATH233",
+      "SubjectID": "IT301",
       "Exam": "Midterm",
       "Date": "2024-04-29",
       "Score": 8,
@@ -3823,7 +3822,7 @@
     },
     {
       "StudentID": "S005",
-      "SubjectID": "CS331",
+      "SubjectID": "IT401",
       "Exam": "Midterm",
       "Date": "2024-04-24",
       "Score": 65,
@@ -3832,7 +3831,7 @@
     },
     {
       "StudentID": "S005",
-      "SubjectID": "IT491",
+      "SubjectID": "IT501",
       "Exam": "Final",
       "Date": "2024-04-17",
       "Score": 96,
@@ -3841,7 +3840,7 @@
     },
     {
       "StudentID": "S005",
-      "SubjectID": "IT333",
+      "SubjectID": "CE101",
       "Exam": "Final",
       "Date": "2024-04-29",
       "Score": 63,
@@ -3850,7 +3849,7 @@
     },
     {
       "StudentID": "S006",
-      "SubjectID": "IT203",
+      "SubjectID": "CE201",
       "Exam": "Project",
       "Date": "2024-02-05",
       "Score": 41,
@@ -3859,7 +3858,7 @@
     },
     {
       "StudentID": "S007",
-      "SubjectID": "MT245",
+      "SubjectID": "CE301",
       "Exam": "Project",
       "Date": "2024-01-04",
       "Score": 54,
@@ -3868,7 +3867,7 @@
     },
     {
       "StudentID": "S008",
-      "SubjectID": "IT278",
+      "SubjectID": "CE401",
       "Exam": "Midterm",
       "Date": "2024-03-25",
       "Score": 87,
@@ -3877,7 +3876,7 @@
     },
     {
       "StudentID": "S009",
-      "SubjectID": "IT164",
+      "SubjectID": "CE501",
       "Exam": "Final",
       "Date": "2024-02-28",
       "Score": 37,
@@ -3886,7 +3885,7 @@
     },
     {
       "StudentID": "S009",
-      "SubjectID": "IT389",
+      "SubjectID": "MT101",
       "Exam": "Midterm",
       "Date": "2024-03-25",
       "Score": 5,
@@ -3895,7 +3894,7 @@
     },
     {
       "StudentID": "S009",
-      "SubjectID": "MT496",
+      "SubjectID": "MT201",
       "Exam": "Project",
       "Date": "2023-10-13",
       "Score": 61,
@@ -3904,7 +3903,7 @@
     },
     {
       "StudentID": "S009",
-      "SubjectID": "IT319",
+      "SubjectID": "MT301",
       "Exam": "Project",
       "Date": "2024-04-04",
       "Score": null,
@@ -3913,7 +3912,7 @@
     },
     {
       "StudentID": "S010",
-      "SubjectID": "CS108",
+      "SubjectID": "MT401",
       "Exam": "Final",
       "Date": "2024-03-23",
       "Score": 38,
@@ -3922,7 +3921,7 @@
     },
     {
       "StudentID": "S010",
-      "SubjectID": "CE215",
+      "SubjectID": "MT501",
       "Exam": "Final",
       "Date": "2024-04-05",
       "Score": 79,
@@ -3931,7 +3930,7 @@
     },
     {
       "StudentID": "S011",
-      "SubjectID": "MATH400",
+      "SubjectID": "MATH101",
       "Exam": "Final",
       "Date": "2023-09-24",
       "Score": 25,
@@ -3940,7 +3939,7 @@
     },
     {
       "StudentID": "S011",
-      "SubjectID": "MT244",
+      "SubjectID": "MATH201",
       "Exam": "Midterm",
       "Date": "2023-11-16",
       "Score": 52,
@@ -3949,7 +3948,7 @@
     },
     {
       "StudentID": "S011",
-      "SubjectID": "CE445",
+      "SubjectID": "MATH301",
       "Exam": "Midterm",
       "Date": "2023-09-13",
       "Score": null,
@@ -3958,7 +3957,7 @@
     },
     {
       "StudentID": "S012",
-      "SubjectID": "MATH259",
+      "SubjectID": "MATH401",
       "Exam": "Project",
       "Date": "2024-01-20",
       "Score": 36,
@@ -3967,7 +3966,7 @@
     },
     {
       "StudentID": "S013",
-      "SubjectID": "MATH444",
+      "SubjectID": "MATH501",
       "Exam": "Project",
       "Date": "2023-10-15",
       "Score": 94,
@@ -3976,7 +3975,7 @@
     },
     {
       "StudentID": "S014",
-      "SubjectID": "MT334",
+      "SubjectID": "CS101",
       "Exam": "Midterm",
       "Date": "2024-05-16",
       "Score": null,
@@ -3985,7 +3984,7 @@
     },
     {
       "StudentID": "S014",
-      "SubjectID": "MT476",
+      "SubjectID": "CS201",
       "Exam": "Midterm",
       "Date": "2024-05-01",
       "Score": 92,
@@ -3994,7 +3993,7 @@
     },
     {
       "StudentID": "S014",
-      "SubjectID": "MT387",
+      "SubjectID": "CS301",
       "Exam": "Project",
       "Date": "2024-01-14",
       "Score": 51,
@@ -4003,7 +4002,7 @@
     },
     {
       "StudentID": "S015",
-      "SubjectID": "IT310",
+      "SubjectID": "CS401",
       "Exam": "Midterm",
       "Date": "2024-02-19",
       "Score": 46,
@@ -4012,7 +4011,7 @@
     },
     {
       "StudentID": "S015",
-      "SubjectID": "CE112",
+      "SubjectID": "CS501",
       "Exam": "Final",
       "Date": "2024-04-30",
       "Score": 46,
@@ -4021,7 +4020,7 @@
     },
     {
       "StudentID": "S015",
-      "SubjectID": "CE448",
+      "SubjectID": "IT101",
       "Exam": "Final",
       "Date": "2023-10-23",
       "Score": 45,
@@ -4030,7 +4029,7 @@
     },
     {
       "StudentID": "S015",
-      "SubjectID": "CS339",
+      "SubjectID": "IT201",
       "Exam": "Project",
       "Date": "2023-10-06",
       "Score": 86,
@@ -4039,7 +4038,7 @@
     },
     {
       "StudentID": "S016",
-      "SubjectID": "MT276",
+      "SubjectID": "IT301",
       "Exam": "Project",
       "Date": "2023-10-22",
       "Score": 96,
@@ -4048,7 +4047,7 @@
     },
     {
       "StudentID": "S017",
-      "SubjectID": "CE480",
+      "SubjectID": "IT401",
       "Exam": "Midterm",
       "Date": "2024-03-09",
       "Score": 80,
@@ -4057,7 +4056,7 @@
     },
     {
       "StudentID": "S017",
-      "SubjectID": "MATH101",
+      "SubjectID": "IT501",
       "Exam": "Final",
       "Date": "2024-02-06",
       "Score": 79,
@@ -4066,7 +4065,7 @@
     },
     {
       "StudentID": "S017",
-      "SubjectID": "MT277",
+      "SubjectID": "CE101",
       "Exam": "Project",
       "Date": "2023-10-04",
       "Score": null,
@@ -4075,7 +4074,7 @@
     },
     {
       "StudentID": "S017",
-      "SubjectID": "MT434",
+      "SubjectID": "CE201",
       "Exam": "Project",
       "Date": "2023-09-10",
       "Score": 4,
@@ -4084,7 +4083,7 @@
     },
     {
       "StudentID": "S018",
-      "SubjectID": "CE374",
+      "SubjectID": "CE301",
       "Exam": "Final",
       "Date": "2024-02-18",
       "Score": 99,
@@ -4093,7 +4092,7 @@
     },
     {
       "StudentID": "S018",
-      "SubjectID": "MATH428",
+      "SubjectID": "CE401",
       "Exam": "Project",
       "Date": "2023-11-13",
       "Score": 54,
@@ -4102,7 +4101,7 @@
     },
     {
       "StudentID": "S018",
-      "SubjectID": "MATH501",
+      "SubjectID": "CE501",
       "Exam": "Final",
       "Date": "2023-11-23",
       "Score": null,
@@ -4111,7 +4110,7 @@
     },
     {
       "StudentID": "S019",
-      "SubjectID": "IT463",
+      "SubjectID": "MT101",
       "Exam": "Midterm",
       "Date": "2023-09-25",
       "Score": 4,
@@ -4120,7 +4119,7 @@
     },
     {
       "StudentID": "S019",
-      "SubjectID": "MT102",
+      "SubjectID": "MT201",
       "Exam": "Project",
       "Date": "2024-01-03",
       "Score": 13,
@@ -4129,7 +4128,7 @@
     },
     {
       "StudentID": "S019",
-      "SubjectID": "MT175",
+      "SubjectID": "MT301",
       "Exam": "Midterm",
       "Date": "2024-04-30",
       "Score": 75,
@@ -4138,7 +4137,7 @@
     },
     {
       "StudentID": "S020",
-      "SubjectID": "MT460",
+      "SubjectID": "MT401",
       "Exam": "Midterm",
       "Date": "2023-11-09",
       "Score": 96,
@@ -4147,7 +4146,7 @@
     },
     {
       "StudentID": "S020",
-      "SubjectID": "MT446",
+      "SubjectID": "MT501",
       "Exam": "Final",
       "Date": "2023-10-24",
       "Score": 91,
@@ -4156,7 +4155,7 @@
     },
     {
       "StudentID": "S020",
-      "SubjectID": "CE487",
+      "SubjectID": "MATH101",
       "Exam": "Final",
       "Date": "2023-09-26",
       "Score": 75,
@@ -4165,7 +4164,7 @@
     },
     {
       "StudentID": "S020",
-      "SubjectID": "CS175",
+      "SubjectID": "MATH201",
       "Exam": "Midterm",
       "Date": "2023-12-19",
       "Score": null,
@@ -4174,7 +4173,7 @@
     },
     {
       "StudentID": "S021",
-      "SubjectID": "IT194",
+      "SubjectID": "MATH301",
       "Exam": "Project",
       "Date": "2024-04-11",
       "Score": 32,
@@ -4183,7 +4182,7 @@
     },
     {
       "StudentID": "S021",
-      "SubjectID": "IT449",
+      "SubjectID": "MATH401",
       "Exam": "Midterm",
       "Date": "2024-05-24",
       "Score": null,
@@ -4192,7 +4191,7 @@
     },
     {
       "StudentID": "S021",
-      "SubjectID": "MATH296",
+      "SubjectID": "MATH501",
       "Exam": "Midterm",
       "Date": "2024-05-18",
       "Score": 14,
@@ -4201,7 +4200,7 @@
     },
     {
       "StudentID": "S021",
-      "SubjectID": "IT482",
+      "SubjectID": "CS101",
       "Exam": "Final",
       "Date": "2023-11-14",
       "Score": null,
@@ -4210,7 +4209,7 @@
     },
     {
       "StudentID": "S022",
-      "SubjectID": "CE317",
+      "SubjectID": "CS201",
       "Exam": "Midterm",
       "Date": "2024-02-12",
       "Score": 8,
@@ -4219,7 +4218,7 @@
     },
     {
       "StudentID": "S022",
-      "SubjectID": "MATH255",
+      "SubjectID": "CS301",
       "Exam": "Project",
       "Date": "2024-05-08",
       "Score": 32,
@@ -4228,7 +4227,7 @@
     },
     {
       "StudentID": "S023",
-      "SubjectID": "MT383",
+      "SubjectID": "CS401",
       "Exam": "Midterm",
       "Date": "2023-10-14",
       "Score": 95,
@@ -4237,7 +4236,7 @@
     },
     {
       "StudentID": "S024",
-      "SubjectID": "MT357",
+      "SubjectID": "CS501",
       "Exam": "Midterm",
       "Date": "2024-01-30",
       "Score": null,
@@ -4246,7 +4245,7 @@
     },
     {
       "StudentID": "S025",
-      "SubjectID": "IT355",
+      "SubjectID": "IT101",
       "Exam": "Final",
       "Date": "2023-11-12",
       "Score": 36,
@@ -4255,7 +4254,7 @@
     },
     {
       "StudentID": "S025",
-      "SubjectID": "CE207",
+      "SubjectID": "IT201",
       "Exam": "Final",
       "Date": "2023-10-27",
       "Score": 53,
@@ -4264,7 +4263,7 @@
     },
     {
       "StudentID": "S025",
-      "SubjectID": "IT359",
+      "SubjectID": "IT301",
       "Exam": "Project",
       "Date": "2023-09-27",
       "Score": 55,
@@ -4273,7 +4272,7 @@
     },
     {
       "StudentID": "S025",
-      "SubjectID": "IT441",
+      "SubjectID": "IT401",
       "Exam": "Project",
       "Date": "2023-12-24",
       "Score": null,
@@ -4282,7 +4281,7 @@
     },
     {
       "StudentID": "S026",
-      "SubjectID": "MATH433",
+      "SubjectID": "IT501",
       "Exam": "Final",
       "Date": "2023-12-19",
       "Score": 54,
@@ -4291,7 +4290,7 @@
     },
     {
       "StudentID": "S026",
-      "SubjectID": "IT312",
+      "SubjectID": "CE101",
       "Exam": "Final",
       "Date": "2024-05-24",
       "Score": 42,
@@ -4300,7 +4299,7 @@
     },
     {
       "StudentID": "S026",
-      "SubjectID": "MT317",
+      "SubjectID": "CE201",
       "Exam": "Midterm",
       "Date": "2024-03-07",
       "Score": 10,
@@ -4309,7 +4308,7 @@
     },
     {
       "StudentID": "S026",
-      "SubjectID": "MATH411",
+      "SubjectID": "CE301",
       "Exam": "Final",
       "Date": "2024-03-02",
       "Score": null,
@@ -4318,7 +4317,7 @@
     },
     {
       "StudentID": "S027",
-      "SubjectID": "MATH489",
+      "SubjectID": "CE401",
       "Exam": "Project",
       "Date": "2024-05-25",
       "Score": 17,
@@ -4327,7 +4326,7 @@
     },
     {
       "StudentID": "S027",
-      "SubjectID": "CS416",
+      "SubjectID": "CE501",
       "Exam": "Final",
       "Date": "2024-05-11",
       "Score": 3,
@@ -4336,7 +4335,7 @@
     },
     {
       "StudentID": "S027",
-      "SubjectID": "MATH105",
+      "SubjectID": "MT101",
       "Exam": "Midterm",
       "Date": "2023-12-15",
       "Score": 28,
@@ -4345,7 +4344,7 @@
     },
     {
       "StudentID": "S028",
-      "SubjectID": "IT185",
+      "SubjectID": "MT201",
       "Exam": "Final",
       "Date": "2024-01-19",
       "Score": 14,
@@ -4354,7 +4353,7 @@
     },
     {
       "StudentID": "S029",
-      "SubjectID": "MATH494",
+      "SubjectID": "MT301",
       "Exam": "Project",
       "Date": "2024-05-12",
       "Score": 25,
@@ -4363,7 +4362,7 @@
     },
     {
       "StudentID": "S030",
-      "SubjectID": "MT295",
+      "SubjectID": "MT401",
       "Exam": "Project",
       "Date": "2023-10-18",
       "Score": null,
@@ -4372,7 +4371,7 @@
     },
     {
       "StudentID": "S030",
-      "SubjectID": "MT213",
+      "SubjectID": "MT501",
       "Exam": "Midterm",
       "Date": "2024-05-27",
       "Score": 40,
@@ -4381,7 +4380,7 @@
     },
     {
       "StudentID": "S030",
-      "SubjectID": "CE283",
+      "SubjectID": "MATH101",
       "Exam": "Final",
       "Date": "2024-03-25",
       "Score": 13,
@@ -4390,7 +4389,7 @@
     },
     {
       "StudentID": "S030",
-      "SubjectID": "CS402",
+      "SubjectID": "MATH201",
       "Exam": "Midterm",
       "Date": "2024-01-12",
       "Score": 14,
@@ -4399,7 +4398,7 @@
     },
     {
       "StudentID": "S031",
-      "SubjectID": "CS161",
+      "SubjectID": "MATH301",
       "Exam": "Midterm",
       "Date": "2023-10-23",
       "Score": 96,
@@ -4408,7 +4407,7 @@
     },
     {
       "StudentID": "S031",
-      "SubjectID": "MATH130",
+      "SubjectID": "MATH401",
       "Exam": "Midterm",
       "Date": "2023-12-31",
       "Score": 87,
@@ -4417,7 +4416,7 @@
     },
     {
       "StudentID": "S031",
-      "SubjectID": "IT480",
+      "SubjectID": "MATH501",
       "Exam": "Final",
       "Date": "2023-09-19",
       "Score": 77,
@@ -4426,7 +4425,7 @@
     },
     {
       "StudentID": "S032",
-      "SubjectID": "MATH366",
+      "SubjectID": "CS101",
       "Exam": "Final",
       "Date": "2024-02-13",
       "Score": 69,
@@ -4435,7 +4434,7 @@
     },
     {
       "StudentID": "S032",
-      "SubjectID": "CE139",
+      "SubjectID": "CS201",
       "Exam": "Midterm",
       "Date": "2023-12-26",
       "Score": 3,
@@ -4444,7 +4443,7 @@
     },
     {
       "StudentID": "S032",
-      "SubjectID": "MT230",
+      "SubjectID": "CS301",
       "Exam": "Final",
       "Date": "2024-04-19",
       "Score": 19,
@@ -4453,7 +4452,7 @@
     },
     {
       "StudentID": "S033",
-      "SubjectID": "CE376",
+      "SubjectID": "CS401",
       "Exam": "Project",
       "Date": "2024-03-30",
       "Score": 29,
@@ -4462,7 +4461,7 @@
     },
     {
       "StudentID": "S034",
-      "SubjectID": "IT171",
+      "SubjectID": "CS501",
       "Exam": "Final",
       "Date": "2024-01-27",
       "Score": 72,
@@ -4471,7 +4470,7 @@
     },
     {
       "StudentID": "S034",
-      "SubjectID": "IT253",
+      "SubjectID": "IT101",
       "Exam": "Midterm",
       "Date": "2024-02-20",
       "Score": 74,
@@ -4480,7 +4479,7 @@
     },
     {
       "StudentID": "S035",
-      "SubjectID": "CE375",
+      "SubjectID": "IT201",
       "Exam": "Final",
       "Date": "2024-05-12",
       "Score": 54,
@@ -4489,7 +4488,7 @@
     },
     {
       "StudentID": "S035",
-      "SubjectID": "IT123",
+      "SubjectID": "IT301",
       "Exam": "Midterm",
       "Date": "2024-01-11",
       "Score": 12,
@@ -4498,7 +4497,7 @@
     },
     {
       "StudentID": "S035",
-      "SubjectID": "CE304",
+      "SubjectID": "IT401",
       "Exam": "Midterm",
       "Date": "2024-03-26",
       "Score": 78,
@@ -4507,7 +4506,7 @@
     },
     {
       "StudentID": "S036",
-      "SubjectID": "MT163",
+      "SubjectID": "IT501",
       "Exam": "Midterm",
       "Date": "2023-11-10",
       "Score": 21,
@@ -4516,7 +4515,7 @@
     },
     {
       "StudentID": "S036",
-      "SubjectID": "IT380",
+      "SubjectID": "CE101",
       "Exam": "Project",
       "Date": "2024-03-15",
       "Score": 39,
@@ -4525,7 +4524,7 @@
     },
     {
       "StudentID": "S037",
-      "SubjectID": "MATH101",
+      "SubjectID": "CE201",
       "Exam": "Midterm",
       "Date": "2024-05-24",
       "Score": 42,
@@ -4534,7 +4533,7 @@
     },
     {
       "StudentID": "S037",
-      "SubjectID": "MT403",
+      "SubjectID": "CE301",
       "Exam": "Midterm",
       "Date": "2024-02-28",
       "Score": 54,
@@ -4543,7 +4542,7 @@
     },
     {
       "StudentID": "S037",
-      "SubjectID": "MATH205",
+      "SubjectID": "CE401",
       "Exam": "Project",
       "Date": "2024-02-23",
       "Score": 68,
@@ -4552,7 +4551,7 @@
     },
     {
       "StudentID": "S037",
-      "SubjectID": "MT106",
+      "SubjectID": "CE501",
       "Exam": "Midterm",
       "Date": "2023-11-30",
       "Score": 80,
@@ -4561,7 +4560,7 @@
     },
     {
       "StudentID": "S038",
-      "SubjectID": "CS151",
+      "SubjectID": "MT101",
       "Exam": "Project",
       "Date": "2023-11-11",
       "Score": null,
@@ -4570,7 +4569,7 @@
     },
     {
       "StudentID": "S038",
-      "SubjectID": "CS381",
+      "SubjectID": "MT201",
       "Exam": "Midterm",
       "Date": "2024-04-20",
       "Score": 99,
@@ -4579,7 +4578,7 @@
     },
     {
       "StudentID": "S038",
-      "SubjectID": "IT470",
+      "SubjectID": "MT301",
       "Exam": "Midterm",
       "Date": "2023-11-07",
       "Score": 53,
@@ -4588,7 +4587,7 @@
     },
     {
       "StudentID": "S038",
-      "SubjectID": "CS425",
+      "SubjectID": "MT401",
       "Exam": "Project",
       "Date": "2024-04-14",
       "Score": 50,
@@ -4597,7 +4596,7 @@
     },
     {
       "StudentID": "S039",
-      "SubjectID": "MT222",
+      "SubjectID": "MT501",
       "Exam": "Midterm",
       "Date": "2023-10-02",
       "Score": 44,
@@ -4606,7 +4605,7 @@
     },
     {
       "StudentID": "S039",
-      "SubjectID": "IT223",
+      "SubjectID": "MATH101",
       "Exam": "Midterm",
       "Date": "2023-11-01",
       "Score": 71,
@@ -4615,7 +4614,7 @@
     },
     {
       "StudentID": "S040",
-      "SubjectID": "MATH347",
+      "SubjectID": "MATH201",
       "Exam": "Project",
       "Date": "2024-01-16",
       "Score": 8,
@@ -4624,7 +4623,7 @@
     },
     {
       "StudentID": "S040",
-      "SubjectID": "CS447",
+      "SubjectID": "MATH301",
       "Exam": "Project",
       "Date": "2023-10-02",
       "Score": 84,
@@ -4633,7 +4632,7 @@
     },
     {
       "StudentID": "S040",
-      "SubjectID": "MT282",
+      "SubjectID": "MATH401",
       "Exam": "Midterm",
       "Date": "2023-11-05",
       "Score": 61,
@@ -4642,7 +4641,7 @@
     },
     {
       "StudentID": "S040",
-      "SubjectID": "CS442",
+      "SubjectID": "MATH501",
       "Exam": "Final",
       "Date": "2023-10-12",
       "Score": 97,
@@ -4651,7 +4650,7 @@
     },
     {
       "StudentID": "S041",
-      "SubjectID": "CE155",
+      "SubjectID": "CS101",
       "Exam": "Final",
       "Date": "2024-03-20",
       "Score": 33,
@@ -4660,7 +4659,7 @@
     },
     {
       "StudentID": "S041",
-      "SubjectID": "MATH435",
+      "SubjectID": "CS201",
       "Exam": "Midterm",
       "Date": "2023-11-28",
       "Score": 63,
@@ -4669,7 +4668,7 @@
     },
     {
       "StudentID": "S042",
-      "SubjectID": "CS363",
+      "SubjectID": "CS301",
       "Exam": "Midterm",
       "Date": "2024-04-20",
       "Score": 52,
@@ -4678,7 +4677,7 @@
     },
     {
       "StudentID": "S042",
-      "SubjectID": "IT187",
+      "SubjectID": "CS401",
       "Exam": "Midterm",
       "Date": "2023-12-16",
       "Score": 69,
@@ -4687,7 +4686,7 @@
     },
     {
       "StudentID": "S042",
-      "SubjectID": "CS422",
+      "SubjectID": "CS501",
       "Exam": "Midterm",
       "Date": "2024-03-14",
       "Score": 43,
@@ -4696,7 +4695,7 @@
     },
     {
       "StudentID": "S043",
-      "SubjectID": "MATH290",
+      "SubjectID": "IT101",
       "Exam": "Final",
       "Date": "2023-12-30",
       "Score": 64,
@@ -4705,7 +4704,7 @@
     },
     {
       "StudentID": "S043",
-      "SubjectID": "MATH246",
+      "SubjectID": "IT201",
       "Exam": "Midterm",
       "Date": "2024-03-05",
       "Score": 8,
@@ -4714,7 +4713,7 @@
     },
     {
       "StudentID": "S043",
-      "SubjectID": "MT366",
+      "SubjectID": "IT301",
       "Exam": "Midterm",
       "Date": "2024-02-10",
       "Score": 61,
@@ -4723,7 +4722,7 @@
     },
     {
       "StudentID": "S044",
-      "SubjectID": "CE277",
+      "SubjectID": "IT401",
       "Exam": "Final",
       "Date": "2024-03-28",
       "Score": 66,
@@ -4732,7 +4731,7 @@
     },
     {
       "StudentID": "S045",
-      "SubjectID": "MATH388",
+      "SubjectID": "IT501",
       "Exam": "Project",
       "Date": "2024-03-29",
       "Score": 6,
@@ -4741,7 +4740,7 @@
     },
     {
       "StudentID": "S045",
-      "SubjectID": "CE333",
+      "SubjectID": "CE101",
       "Exam": "Project",
       "Date": "2024-03-10",
       "Score": 97,
@@ -4750,7 +4749,7 @@
     },
     {
       "StudentID": "S045",
-      "SubjectID": "MT335",
+      "SubjectID": "CE201",
       "Exam": "Project",
       "Date": "2024-01-01",
       "Score": 3,
@@ -4759,7 +4758,7 @@
     },
     {
       "StudentID": "S045",
-      "SubjectID": "IT315",
+      "SubjectID": "CE301",
       "Exam": "Midterm",
       "Date": "2024-05-23",
       "Score": 4,
@@ -4768,7 +4767,7 @@
     },
     {
       "StudentID": "S046",
-      "SubjectID": "MT500",
+      "SubjectID": "CE401",
       "Exam": "Project",
       "Date": "2024-04-08",
       "Score": 78,
@@ -4777,7 +4776,7 @@
     },
     {
       "StudentID": "S046",
-      "SubjectID": "CS198",
+      "SubjectID": "CE501",
       "Exam": "Final",
       "Date": "2024-02-15",
       "Score": 35,
@@ -4786,7 +4785,7 @@
     },
     {
       "StudentID": "S046",
-      "SubjectID": "MATH415",
+      "SubjectID": "MT101",
       "Exam": "Project",
       "Date": "2023-11-08",
       "Score": 95,
@@ -4795,7 +4794,7 @@
     },
     {
       "StudentID": "S047",
-      "SubjectID": "MT360",
+      "SubjectID": "MT201",
       "Exam": "Final",
       "Date": "2023-12-07",
       "Score": 99,
@@ -4804,7 +4803,7 @@
     },
     {
       "StudentID": "S047",
-      "SubjectID": "CS338",
+      "SubjectID": "MT301",
       "Exam": "Midterm",
       "Date": "2023-10-27",
       "Score": null,
@@ -4813,7 +4812,7 @@
     },
     {
       "StudentID": "S047",
-      "SubjectID": "CE243",
+      "SubjectID": "MT401",
       "Exam": "Midterm",
       "Date": "2024-03-24",
       "Score": 76,
@@ -4822,7 +4821,7 @@
     },
     {
       "StudentID": "S048",
-      "SubjectID": "IT336",
+      "SubjectID": "MT501",
       "Exam": "Project",
       "Date": "2024-01-08",
       "Score": 23,
@@ -4831,7 +4830,7 @@
     },
     {
       "StudentID": "S048",
-      "SubjectID": "MT426",
+      "SubjectID": "MATH101",
       "Exam": "Project",
       "Date": "2024-03-28",
       "Score": 53,
@@ -4840,7 +4839,7 @@
     },
     {
       "StudentID": "S048",
-      "SubjectID": "CS187",
+      "SubjectID": "MATH201",
       "Exam": "Project",
       "Date": "2023-10-10",
       "Score": 25,
@@ -4849,7 +4848,7 @@
     },
     {
       "StudentID": "S048",
-      "SubjectID": "MATH418",
+      "SubjectID": "MATH301",
       "Exam": "Final",
       "Date": "2024-03-15",
       "Score": 27,
@@ -4858,7 +4857,7 @@
     },
     {
       "StudentID": "S049",
-      "SubjectID": "MT204",
+      "SubjectID": "MATH401",
       "Exam": "Midterm",
       "Date": "2023-11-08",
       "Score": 45,
@@ -4867,7 +4866,7 @@
     },
     {
       "StudentID": "S049",
-      "SubjectID": "CS314",
+      "SubjectID": "MATH501",
       "Exam": "Project",
       "Date": "2024-03-26",
       "Score": 29,
@@ -4876,7 +4875,7 @@
     },
     {
       "StudentID": "S050",
-      "SubjectID": "CE331",
+      "SubjectID": "CS101",
       "Exam": "Project",
       "Date": "2024-02-29",
       "Score": 73,
@@ -4885,7 +4884,7 @@
     },
     {
       "StudentID": "S050",
-      "SubjectID": "CE188",
+      "SubjectID": "CS201",
       "Exam": "Project",
       "Date": "2023-10-06",
       "Score": null,
@@ -4894,7 +4893,7 @@
     },
     {
       "StudentID": "S050",
-      "SubjectID": "MT307",
+      "SubjectID": "CS301",
       "Exam": "Project",
       "Date": "2024-04-30",
       "Score": 49,
@@ -4903,7 +4902,7 @@
     },
     {
       "StudentID": "S050",
-      "SubjectID": "CS383",
+      "SubjectID": "CS401",
       "Exam": "Midterm",
       "Date": "2024-04-15",
       "Score": 11,
@@ -4912,7 +4911,7 @@
     },
     {
       "StudentID": "S051",
-      "SubjectID": "MATH453",
+      "SubjectID": "CS501",
       "Exam": "Midterm",
       "Date": "2023-12-26",
       "Score": 4,
@@ -4921,7 +4920,7 @@
     },
     {
       "StudentID": "S051",
-      "SubjectID": "IT477",
+      "SubjectID": "IT101",
       "Exam": "Midterm",
       "Date": "2023-12-11",
       "Score": 75,
@@ -4930,7 +4929,7 @@
     },
     {
       "StudentID": "S051",
-      "SubjectID": "MT161",
+      "SubjectID": "IT201",
       "Exam": "Midterm",
       "Date": "2023-12-15",
       "Score": 23,
@@ -4939,7 +4938,7 @@
     },
     {
       "StudentID": "S051",
-      "SubjectID": "CS498",
+      "SubjectID": "IT301",
       "Exam": "Project",
       "Date": "2023-09-20",
       "Score": 25,
@@ -4948,7 +4947,7 @@
     },
     {
       "StudentID": "S052",
-      "SubjectID": "MATH319",
+      "SubjectID": "IT401",
       "Exam": "Final",
       "Date": "2023-12-18",
       "Score": null,
@@ -4957,7 +4956,7 @@
     },
     {
       "StudentID": "S053",
-      "SubjectID": "MATH359",
+      "SubjectID": "IT501",
       "Exam": "Project",
       "Date": "2024-04-01",
       "Score": 49,
@@ -4966,7 +4965,7 @@
     },
     {
       "StudentID": "S053",
-      "SubjectID": "CE486",
+      "SubjectID": "CE101",
       "Exam": "Project",
       "Date": "2023-12-26",
       "Score": 42,
@@ -4975,7 +4974,7 @@
     },
     {
       "StudentID": "S054",
-      "SubjectID": "CS149",
+      "SubjectID": "CE201",
       "Exam": "Final",
       "Date": "2023-09-09",
       "Score": 88,
@@ -4984,7 +4983,7 @@
     },
     {
       "StudentID": "S054",
-      "SubjectID": "MATH452",
+      "SubjectID": "CE301",
       "Exam": "Midterm",
       "Date": "2023-09-27",
       "Score": 98,
@@ -4993,7 +4992,7 @@
     },
     {
       "StudentID": "S054",
-      "SubjectID": "CE212",
+      "SubjectID": "CE401",
       "Exam": "Project",
       "Date": "2024-01-04",
       "Score": 41,
@@ -5002,7 +5001,7 @@
     },
     {
       "StudentID": "S054",
-      "SubjectID": "IT384",
+      "SubjectID": "CE501",
       "Exam": "Project",
       "Date": "2024-03-05",
       "Score": 59,
@@ -5011,7 +5010,7 @@
     },
     {
       "StudentID": "S055",
-      "SubjectID": "CE470",
+      "SubjectID": "MT101",
       "Exam": "Project",
       "Date": "2023-12-06",
       "Score": 10,
@@ -5020,7 +5019,7 @@
     },
     {
       "StudentID": "S056",
-      "SubjectID": "IT304",
+      "SubjectID": "MT201",
       "Exam": "Final",
       "Date": "2023-10-05",
       "Score": 53,
@@ -5029,7 +5028,7 @@
     },
     {
       "StudentID": "S056",
-      "SubjectID": "IT132",
+      "SubjectID": "MT301",
       "Exam": "Midterm",
       "Date": "2023-10-16",
       "Score": null,
@@ -5038,7 +5037,7 @@
     },
     {
       "StudentID": "S056",
-      "SubjectID": "MATH415",
+      "SubjectID": "MT401",
       "Exam": "Final",
       "Date": "2024-02-20",
       "Score": 12,
@@ -5047,7 +5046,7 @@
     },
     {
       "StudentID": "S057",
-      "SubjectID": "MT116",
+      "SubjectID": "MT501",
       "Exam": "Midterm",
       "Date": "2023-12-15",
       "Score": 41,
@@ -5056,7 +5055,7 @@
     },
     {
       "StudentID": "S058",
-      "SubjectID": "MATH185",
+      "SubjectID": "MATH101",
       "Exam": "Midterm",
       "Date": "2024-02-04",
       "Score": 3,
@@ -5065,7 +5064,7 @@
     },
     {
       "StudentID": "S058",
-      "SubjectID": "MT173",
+      "SubjectID": "MATH201",
       "Exam": "Midterm",
       "Date": "2023-12-11",
       "Score": 50,
@@ -5074,7 +5073,7 @@
     },
     {
       "StudentID": "S059",
-      "SubjectID": "CE432",
+      "SubjectID": "MATH301",
       "Exam": "Project",
       "Date": "2023-12-22",
       "Score": 4,
@@ -5083,7 +5082,7 @@
     },
     {
       "StudentID": "S059",
-      "SubjectID": "CS184",
+      "SubjectID": "MATH401",
       "Exam": "Final",
       "Date": "2024-03-06",
       "Score": 6,
@@ -5092,7 +5091,7 @@
     },
     {
       "StudentID": "S059",
-      "SubjectID": "CE199",
+      "SubjectID": "MATH501",
       "Exam": "Final",
       "Date": "2024-05-29",
       "Score": 23,
@@ -5101,7 +5100,7 @@
     },
     {
       "StudentID": "S059",
-      "SubjectID": "IT194",
+      "SubjectID": "CS101",
       "Exam": "Midterm",
       "Date": "2023-09-20",
       "Score": 12,
@@ -5110,7 +5109,7 @@
     },
     {
       "StudentID": "S060",
-      "SubjectID": "MT106",
+      "SubjectID": "CS201",
       "Exam": "Final",
       "Date": "2023-10-16",
       "Score": 24,
@@ -5119,7 +5118,7 @@
     },
     {
       "StudentID": "S061",
-      "SubjectID": "IT220",
+      "SubjectID": "CS301",
       "Exam": "Project",
       "Date": "2023-12-13",
       "Score": 8,
@@ -5128,7 +5127,7 @@
     },
     {
       "StudentID": "S061",
-      "SubjectID": "CS205",
+      "SubjectID": "CS401",
       "Exam": "Midterm",
       "Date": "2024-02-27",
       "Score": 93,
@@ -5137,7 +5136,7 @@
     },
     {
       "StudentID": "S062",
-      "SubjectID": "CE158",
+      "SubjectID": "CS501",
       "Exam": "Midterm",
       "Date": "2024-04-01",
       "Score": 38,
@@ -5146,7 +5145,7 @@
     },
     {
       "StudentID": "S063",
-      "SubjectID": "IT381",
+      "SubjectID": "IT101",
       "Exam": "Project",
       "Date": "2024-01-03",
       "Score": 9,
@@ -5155,7 +5154,7 @@
     },
     {
       "StudentID": "S063",
-      "SubjectID": "CE122",
+      "SubjectID": "IT201",
       "Exam": "Midterm",
       "Date": "2024-05-18",
       "Score": null,
@@ -5164,7 +5163,7 @@
     },
     {
       "StudentID": "S063",
-      "SubjectID": "MATH236",
+      "SubjectID": "IT301",
       "Exam": "Project",
       "Date": "2023-11-04",
       "Score": 1,
@@ -5173,7 +5172,7 @@
     },
     {
       "StudentID": "S063",
-      "SubjectID": "MT478",
+      "SubjectID": "IT401",
       "Exam": "Project",
       "Date": "2023-11-01",
       "Score": null,
@@ -5182,7 +5181,7 @@
     },
     {
       "StudentID": "S064",
-      "SubjectID": "IT166",
+      "SubjectID": "IT501",
       "Exam": "Midterm",
       "Date": "2024-05-08",
       "Score": 16,
@@ -5191,7 +5190,7 @@
     },
     {
       "StudentID": "S065",
-      "SubjectID": "MT304",
+      "SubjectID": "CE101",
       "Exam": "Project",
       "Date": "2024-01-24",
       "Score": 10,
@@ -5200,7 +5199,7 @@
     },
     {
       "StudentID": "S066",
-      "SubjectID": "CE459",
+      "SubjectID": "CE201",
       "Exam": "Project",
       "Date": "2024-05-19",
       "Score": 47,
@@ -5209,7 +5208,7 @@
     },
     {
       "StudentID": "S067",
-      "SubjectID": "MT351",
+      "SubjectID": "CE301",
       "Exam": "Midterm",
       "Date": "2023-10-27",
       "Score": 2,
@@ -5218,7 +5217,7 @@
     },
     {
       "StudentID": "S067",
-      "SubjectID": "IT379",
+      "SubjectID": "CE401",
       "Exam": "Final",
       "Date": "2023-11-23",
       "Score": 52,
@@ -5227,7 +5226,7 @@
     },
     {
       "StudentID": "S068",
-      "SubjectID": "MATH260",
+      "SubjectID": "CE501",
       "Exam": "Midterm",
       "Date": "2024-01-10",
       "Score": 75,
@@ -5236,7 +5235,7 @@
     },
     {
       "StudentID": "S068",
-      "SubjectID": "IT487",
+      "SubjectID": "MT101",
       "Exam": "Project",
       "Date": "2024-02-26",
       "Score": 23,
@@ -5245,7 +5244,7 @@
     },
     {
       "StudentID": "S068",
-      "SubjectID": "MATH164",
+      "SubjectID": "MT201",
       "Exam": "Final",
       "Date": "2024-05-02",
       "Score": 69,
@@ -5254,7 +5253,7 @@
     },
     {
       "StudentID": "S069",
-      "SubjectID": "MATH366",
+      "SubjectID": "MT301",
       "Exam": "Midterm",
       "Date": "2024-04-10",
       "Score": 36,
@@ -5263,7 +5262,7 @@
     },
     {
       "StudentID": "S070",
-      "SubjectID": "CS337",
+      "SubjectID": "MT401",
       "Exam": "Midterm",
       "Date": "2024-03-24",
       "Score": 9,
@@ -5272,7 +5271,7 @@
     },
     {
       "StudentID": "S071",
-      "SubjectID": "IT352",
+      "SubjectID": "MT501",
       "Exam": "Final",
       "Date": "2023-09-10",
       "Score": 78,
@@ -5281,7 +5280,7 @@
     },
     {
       "StudentID": "S072",
-      "SubjectID": "IT315",
+      "SubjectID": "MATH101",
       "Exam": "Final",
       "Date": "2024-01-10",
       "Score": 17,
@@ -5290,7 +5289,7 @@
     },
     {
       "StudentID": "S072",
-      "SubjectID": "MATH167",
+      "SubjectID": "MATH201",
       "Exam": "Project",
       "Date": "2023-12-22",
       "Score": 76,
@@ -5299,7 +5298,7 @@
     },
     {
       "StudentID": "S072",
-      "SubjectID": "CE172",
+      "SubjectID": "MATH301",
       "Exam": "Final",
       "Date": "2024-02-12",
       "Score": 48,
@@ -5308,7 +5307,7 @@
     },
     {
       "StudentID": "S072",
-      "SubjectID": "IT378",
+      "SubjectID": "MATH401",
       "Exam": "Final",
       "Date": "2024-01-04",
       "Score": 25,
@@ -5317,7 +5316,7 @@
     },
     {
       "StudentID": "S073",
-      "SubjectID": "CE299",
+      "SubjectID": "MATH501",
       "Exam": "Final",
       "Date": "2024-03-12",
       "Score": 26,
@@ -5326,7 +5325,7 @@
     },
     {
       "StudentID": "S073",
-      "SubjectID": "CS500",
+      "SubjectID": "CS101",
       "Exam": "Project",
       "Date": "2023-12-13",
       "Score": 2,
@@ -5335,7 +5334,7 @@
     },
     {
       "StudentID": "S073",
-      "SubjectID": "IT370",
+      "SubjectID": "CS201",
       "Exam": "Final",
       "Date": "2024-02-10",
       "Score": 98,
@@ -5344,7 +5343,7 @@
     },
     {
       "StudentID": "S073",
-      "SubjectID": "IT410",
+      "SubjectID": "CS301",
       "Exam": "Midterm",
       "Date": "2024-04-02",
       "Score": 10,
@@ -5353,7 +5352,7 @@
     },
     {
       "StudentID": "S074",
-      "SubjectID": "MT332",
+      "SubjectID": "CS401",
       "Exam": "Final",
       "Date": "2023-11-19",
       "Score": 98,
@@ -5362,7 +5361,7 @@
     },
     {
       "StudentID": "S075",
-      "SubjectID": "MT122",
+      "SubjectID": "CS501",
       "Exam": "Midterm",
       "Date": "2024-05-30",
       "Score": 52,
@@ -5371,7 +5370,7 @@
     },
     {
       "StudentID": "S075",
-      "SubjectID": "MT438",
+      "SubjectID": "IT101",
       "Exam": "Midterm",
       "Date": "2023-12-20",
       "Score": 21,
@@ -5380,7 +5379,7 @@
     },
     {
       "StudentID": "S076",
-      "SubjectID": "CE142",
+      "SubjectID": "IT201",
       "Exam": "Project",
       "Date": "2024-01-28",
       "Score": 94,
@@ -5389,7 +5388,7 @@
     },
     {
       "StudentID": "S077",
-      "SubjectID": "CS200",
+      "SubjectID": "IT301",
       "Exam": "Midterm",
       "Date": "2023-12-07",
       "Score": 32,
@@ -5398,7 +5397,7 @@
     },
     {
       "StudentID": "S077",
-      "SubjectID": "IT213",
+      "SubjectID": "IT401",
       "Exam": "Project",
       "Date": "2024-01-23",
       "Score": 90,
@@ -5407,7 +5406,7 @@
     },
     {
       "StudentID": "S077",
-      "SubjectID": "IT229",
+      "SubjectID": "IT501",
       "Exam": "Final",
       "Date": "2023-11-20",
       "Score": 33,
@@ -5416,7 +5415,7 @@
     },
     {
       "StudentID": "S077",
-      "SubjectID": "IT102",
+      "SubjectID": "CE101",
       "Exam": "Midterm",
       "Date": "2024-03-30",
       "Score": 13,
@@ -5425,7 +5424,7 @@
     },
     {
       "StudentID": "S078",
-      "SubjectID": "CE385",
+      "SubjectID": "CE201",
       "Exam": "Final",
       "Date": "2024-03-13",
       "Score": 74,
@@ -5434,7 +5433,7 @@
     },
     {
       "StudentID": "S078",
-      "SubjectID": "IT175",
+      "SubjectID": "CE301",
       "Exam": "Midterm",
       "Date": "2024-03-17",
       "Score": 49,
@@ -5443,7 +5442,7 @@
     },
     {
       "StudentID": "S078",
-      "SubjectID": "MATH376",
+      "SubjectID": "CE401",
       "Exam": "Midterm",
       "Date": "2024-01-14",
       "Score": 57,
@@ -5452,7 +5451,7 @@
     },
     {
       "StudentID": "S078",
-      "SubjectID": "IT473",
+      "SubjectID": "CE501",
       "Exam": "Project",
       "Date": "2024-01-30",
       "Score": 70,
@@ -5461,7 +5460,7 @@
     },
     {
       "StudentID": "S079",
-      "SubjectID": "MT124",
+      "SubjectID": "MT101",
       "Exam": "Midterm",
       "Date": "2024-03-16",
       "Score": 49,
@@ -5470,7 +5469,7 @@
     },
     {
       "StudentID": "S079",
-      "SubjectID": "CS318",
+      "SubjectID": "MT201",
       "Exam": "Final",
       "Date": "2023-10-03",
       "Score": 12,
@@ -5479,7 +5478,7 @@
     },
     {
       "StudentID": "S079",
-      "SubjectID": "CS436",
+      "SubjectID": "MT301",
       "Exam": "Midterm",
       "Date": "2024-04-12",
       "Score": 88,
@@ -5488,7 +5487,7 @@
     },
     {
       "StudentID": "S080",
-      "SubjectID": "IT178",
+      "SubjectID": "MT401",
       "Exam": "Project",
       "Date": "2023-09-24",
       "Score": 27,
@@ -5497,7 +5496,7 @@
     },
     {
       "StudentID": "S080",
-      "SubjectID": "MATH152",
+      "SubjectID": "MT501",
       "Exam": "Final",
       "Date": "2024-04-26",
       "Score": 43,
@@ -5506,7 +5505,7 @@
     },
     {
       "StudentID": "S081",
-      "SubjectID": "CS377",
+      "SubjectID": "MATH101",
       "Exam": "Project",
       "Date": "2024-05-03",
       "Score": 57,
@@ -5515,7 +5514,7 @@
     },
     {
       "StudentID": "S081",
-      "SubjectID": "CS207",
+      "SubjectID": "MATH201",
       "Exam": "Project",
       "Date": "2024-02-10",
       "Score": 86,
@@ -5524,7 +5523,7 @@
     },
     {
       "StudentID": "S081",
-      "SubjectID": "CE373",
+      "SubjectID": "MATH301",
       "Exam": "Final",
       "Date": "2024-05-27",
       "Score": 96,
@@ -5533,7 +5532,7 @@
     },
     {
       "StudentID": "S082",
-      "SubjectID": "MATH143",
+      "SubjectID": "MATH401",
       "Exam": "Midterm",
       "Date": "2024-02-22",
       "Score": null,
@@ -5542,7 +5541,7 @@
     },
     {
       "StudentID": "S082",
-      "SubjectID": "MT421",
+      "SubjectID": "MATH501",
       "Exam": "Midterm",
       "Date": "2023-12-09",
       "Score": 91,
@@ -5551,7 +5550,7 @@
     },
     {
       "StudentID": "S083",
-      "SubjectID": "MT184",
+      "SubjectID": "CS101",
       "Exam": "Final",
       "Date": "2023-12-31",
       "Score": 41,
@@ -5560,7 +5559,7 @@
     },
     {
       "StudentID": "S083",
-      "SubjectID": "CE348",
+      "SubjectID": "CS201",
       "Exam": "Final",
       "Date": "2024-04-01",
       "Score": 83,
@@ -5569,7 +5568,7 @@
     },
     {
       "StudentID": "S083",
-      "SubjectID": "CE273",
+      "SubjectID": "CS301",
       "Exam": "Final",
       "Date": "2023-12-21",
       "Score": 0,
@@ -5578,7 +5577,7 @@
     },
     {
       "StudentID": "S084",
-      "SubjectID": "IT425",
+      "SubjectID": "CS401",
       "Exam": "Midterm",
       "Date": "2024-03-05",
       "Score": 20,
@@ -5587,7 +5586,7 @@
     },
     {
       "StudentID": "S085",
-      "SubjectID": "MT123",
+      "SubjectID": "CS501",
       "Exam": "Midterm",
       "Date": "2023-09-17",
       "Score": 91,
@@ -5596,7 +5595,7 @@
     },
     {
       "StudentID": "S085",
-      "SubjectID": "MT327",
+      "SubjectID": "IT101",
       "Exam": "Project",
       "Date": "2023-09-14",
       "Score": 44,
@@ -5605,7 +5604,7 @@
     },
     {
       "StudentID": "S085",
-      "SubjectID": "MATH322",
+      "SubjectID": "IT201",
       "Exam": "Final",
       "Date": "2024-04-11",
       "Score": 52,
@@ -5614,7 +5613,7 @@
     },
     {
       "StudentID": "S085",
-      "SubjectID": "CS428",
+      "SubjectID": "IT301",
       "Exam": "Midterm",
       "Date": "2023-12-29",
       "Score": 84,
@@ -5623,7 +5622,7 @@
     },
     {
       "StudentID": "S086",
-      "SubjectID": "MATH477",
+      "SubjectID": "IT401",
       "Exam": "Project",
       "Date": "2023-11-20",
       "Score": null,
@@ -5632,7 +5631,7 @@
     },
     {
       "StudentID": "S086",
-      "SubjectID": "CS103",
+      "SubjectID": "IT501",
       "Exam": "Final",
       "Date": "2023-11-21",
       "Score": 77,
@@ -5641,7 +5640,7 @@
     },
     {
       "StudentID": "S086",
-      "SubjectID": "IT471",
+      "SubjectID": "CE101",
       "Exam": "Project",
       "Date": "2023-09-19",
       "Score": 21,
@@ -5650,7 +5649,7 @@
     },
     {
       "StudentID": "S086",
-      "SubjectID": "CE292",
+      "SubjectID": "CE201",
       "Exam": "Project",
       "Date": "2023-09-29",
       "Score": 78,
@@ -5659,7 +5658,7 @@
     },
     {
       "StudentID": "S087",
-      "SubjectID": "MATH232",
+      "SubjectID": "CE301",
       "Exam": "Project",
       "Date": "2023-09-30",
       "Score": 6,
@@ -5668,7 +5667,7 @@
     },
     {
       "StudentID": "S087",
-      "SubjectID": "CS411",
+      "SubjectID": "CE401",
       "Exam": "Final",
       "Date": "2024-01-29",
       "Score": 51,
@@ -5677,7 +5676,7 @@
     },
     {
       "StudentID": "S087",
-      "SubjectID": "CS371",
+      "SubjectID": "CE501",
       "Exam": "Project",
       "Date": "2024-02-02",
       "Score": 73,
@@ -5686,7 +5685,7 @@
     },
     {
       "StudentID": "S088",
-      "SubjectID": "CS268",
+      "SubjectID": "MT101",
       "Exam": "Midterm",
       "Date": "2024-05-04",
       "Score": 48,
@@ -5695,7 +5694,7 @@
     },
     {
       "StudentID": "S088",
-      "SubjectID": "IT324",
+      "SubjectID": "MT201",
       "Exam": "Project",
       "Date": "2023-10-20",
       "Score": 38,
@@ -5704,7 +5703,7 @@
     },
     {
       "StudentID": "S088",
-      "SubjectID": "CS154",
+      "SubjectID": "MT301",
       "Exam": "Midterm",
       "Date": "2024-03-15",
       "Score": 1,
@@ -5713,7 +5712,7 @@
     },
     {
       "StudentID": "S089",
-      "SubjectID": "CS460",
+      "SubjectID": "MT401",
       "Exam": "Project",
       "Date": "2024-05-09",
       "Score": 36,
@@ -5722,7 +5721,7 @@
     },
     {
       "StudentID": "S089",
-      "SubjectID": "MT153",
+      "SubjectID": "MT501",
       "Exam": "Midterm",
       "Date": "2023-09-01",
       "Score": 16,
@@ -5731,7 +5730,7 @@
     },
     {
       "StudentID": "S089",
-      "SubjectID": "CE116",
+      "SubjectID": "MATH101",
       "Exam": "Final",
       "Date": "2023-11-23",
       "Score": null,
@@ -5740,7 +5739,7 @@
     },
     {
       "StudentID": "S090",
-      "SubjectID": "MATH210",
+      "SubjectID": "MATH201",
       "Exam": "Midterm",
       "Date": "2023-11-23",
       "Score": 86,
@@ -5749,7 +5748,7 @@
     },
     {
       "StudentID": "S090",
-      "SubjectID": "CS126",
+      "SubjectID": "MATH301",
       "Exam": "Final",
       "Date": "2024-05-09",
       "Score": null,
@@ -5758,13 +5757,13 @@
     },
     {
       "StudentID": "S090",
-      "SubjectID": "MATH369",
+      "SubjectID": "MATH401",
       "Exam": "Midterm",
       "Date": "2023-10-26",
       "Score": 65,
       "ScoreStatus": "Graded",
       "Grade": "C"
-    } 
+    }
   ],
   "courses": [
   {
